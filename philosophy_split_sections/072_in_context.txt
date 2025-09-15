@@ -1,0 +1,37 @@
+IN CONTEXT
+
+BRANCH
+
+Philosophy of science
+
+APPROACH
+
+Logical positivism
+
+BEFORE
+
+1890 Gottlob Frege starts to explore the logical structures of language.
+
+1921 Ludwig Wittgenstein writes that philosophy is the study of the limits of language.
+
+AFTER
+
+1930s Karl Popper proposes that science works by means of falsifiability: no amount of positive proofs can prove something to be true, whereas one negative result confirms that a theory is incorrect.
+
+1960s Thomas Kuhn explores the social dimensions of scientific progress, undermining some of the tenets of logical positivism.
+
+One of the problems for 20th-century philosophy is determining a role for philosophy given the success of the natural sciences. This is one of the main concerns of German-born Rudolf Carnap in The Physical Language as the Universal Language of Science (1934), which suggests that philosophy’s proper function—and its primary contribution to science—is the logical analysis and clarification of scientific concepts.
+
+Carnap claims that many apparently deep philosophical problems—such as metaphysical ones—are meaningless, because they cannot be proved or disproved through experience. He adds that they are also in fact pseudo-problems caused by logical confusions in the way we use language.
+
+Logical language
+
+Logical positivism accepts as true only strictly logical statements that can be empirically verified. For Carnap, philosophy’s real task is therefore the logical analysis of language (in order to discover and rule out those questions that are, strictly speaking, meaningless), and to find ways of talking clearly and unambiguously about the sciences.
+
+Some philosophers, such as Willard Quine and Karl Popper, have argued that Carnap’s standards for what can be said meaningfully are too exacting and present an idealized view of how science operates, which is not reflected in practice. Nevertheless, Carnap’s reminder that language can fool us into seeing problems that are not really there is an important one.
+
+"In logic, there are no morals."
+
+Rudolf Carnap
+
+See also: Gottlob Frege • Ludwig Wittgenstein • Karl Popper • Willard Van Orman Quine • Thomas Kuhn

@@ -1,0 +1,35 @@
+IN CONTEXT
+
+BRANCH
+
+Philosophy of language
+
+APPROACH
+
+Semiotics
+
+BEFORE
+
+c.400 BCE Plato explores the relationship between names and things.
+
+c.250 BCE Stoic philosophers develop an early theory of linguistic signs.
+
+1632 Portuguese philosopher John Poinsot writes his Treatise on Signs.
+
+AFTER
+
+1950s Saussure’s analysis of the structures of language influences Noam Chomsky’s theory of generative grammar, which aims to expose the rules of a language that govern its possible word combinations.
+
+1960s Roland Barthes explores the literary implications of signs and semiotics.
+
+Saussure was a 19th-century Swiss philosopher who saw language as made up of systems of “signs”, with the signs acting as the basic units of the language. His studies formed the basis of a new theory, known as semiotics. This new theory of signs was developed by other philosophers during the 20th century such as Russia’s Roman Jakobson, who summed up the semiotic approach when he said that “every message is made of signs.”
+
+Saussure said that a sign is made up of two things. Firstly, a “signifier”, which is a sound-image. This is not the actual sound, but the mental “image” we have of the sound. Secondly, the “signified”, or concept. Here Saussure turns his back on a long tradition that says language is about the relationships between words and things, because he is saying that both aspects of a sign are mental (our concept of a “dog” for example, and a sound-image of the sound “dog”). Saussure claims that any message—for example “my dog is called Fred”—is a system of signs. This means that it is a system of relationships between sound-images and concepts. However, Saussure states that the relationship between the signified and the signifier is arbitrary—so there is nothing particularly “doggy” about the sound “dog”, which is why the word can be chien in French, or gou in Chinese.
+
+Saussure’s work on language became the basis of modern linguistics, and influenced many philosophers and literary theorists.
+
+"In the lives of individuals and of societies, language is a factor of greater importance than any other."
+
+Ferdinand de Saussure
+
+See also: Plato • Charles Sanders Peirce • Ludwig Wittgenstein • Roland Barthes • Julia Kristeva

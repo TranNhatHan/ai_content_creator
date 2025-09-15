@@ -1,0 +1,81 @@
+IN CONTEXT
+
+BRANCH
+
+Metaphysics
+
+APPROACH
+
+Epistemology
+
+BEFORE
+
+4th century BCE Aristotle disagrees with Plato’s theory of a distinct human soul and argues that the soul is a form or function of the body.
+
+1641 René Descartes publishes his Meditations on First Philosophy, arguing that mind and body are completely different and distinct entities.
+
+AFTER
+
+1748 Julien Offray de la Mettrie’s The Man Machine presents a mechanistic view of human beings.
+
+1949 Gilbert Ryle states that Descartes’ idea that mind and body are separate “substances” is a “category mistake.”
+
+Although he is best known for his political philosophy, Thomas Hobbes wrote on a wide range of subjects. Many of his views are controversial, not least his defence of physicalism—the theory that everything in the world is exclusively physical in nature, allowing no room for the existence of other natural entities, such as the mind, or for supernatural beings. According to Hobbes, all animals, including humans, are nothing more than flesh-and-blood machines.
+
+The kind of metaphysical theory that Hobbes favors was becoming increasingly popular at the time of his writing, in the mid-17th century. Knowledge in the physical sciences was growing rapidly, bringing clearer explanations of phenomena that had long been obscure or misunderstood. Hobbes had met the Italian astronomer Galileo, frequently regarded as the “father of modern science”, and had been closely associated with Francis Bacon, whose thinking had helped to revolutionize scientific practice.
+
+In science and mathematics, Hobbes saw the perfect counter to the medieval Scholastic philosophy that had sought to reconcile the apparent contradictions between reason and faith. In common with many thinkers of his time, he believed there was no limit to what science could achieve, taking it as a matter of fact that any question about the nature of the world could be answered with a scientifically formulated explanation.
+
+Hobbes’ theory
+
+In Leviathan, his major political work, Hobbes proclaims: “The universe—that is, the whole mass of things that are—is corporeal, that is to say, body.” He goes on to say that each of these bodies has “length, breadth, and depth”, and “that which is not body is no part of the universe.” Although Hobbes is stating that the nature of everything is purely physical, he is not claiming that because of this physicality everything can be perceived by us. Some bodies or objects, Hobbes declares, are imperceptible, even though they occupy physical space and have physical dimensions. These, he calls “spirits.” Some of them, labelled “animal spirits” (in line with a common view at the time) are responsible for most animal, and especially human, activity. These animal spirits move around the body, carrying with them and passing on information, in much the same way as we now think of the nervous system doing.
+
+Sometimes, Hobbes seems to apply his concept of physical spirits to God and other entities found in religion, such as angels. However, he does state that God himself, but not other physical spirits, should be described as “incorporeal.” For Hobbes, the divine nature of God’s attributes is not something that the human mind is capable of fully understanding, therefore the term “incorporeal” is the only one that recognizes and also honors the unknowable substance of God. Hobbes does make clear, however, that he believes the existence and nature of all religious entities are matters for faith, not science, and that God, in particular, will remain beyond our comprehension. All it is possible for human beings to know about God is that he exists, and that he is the first cause, or creator, of everything in the universe.
+
+"Life is but a motion of limbs."
+
+Thomas Hobbes
+
+Hobbes believed that “spirits” carried information needed to function around the body. We now know that this is done by electrical signals, travelling along the neurons of the nervous system.
+
+What is consciousness?
+
+Because Hobbes considers that human beings are purely physical, and are therefore no more than biological machines, he is then faced with the problem of how to account for our mental nature. He makes no attempt to give an account of how the mind can be explained. He simply offers a general and rather sketchy account of what he thought science would eventually reveal to be the case. Even then, he only covers the mental activities such as voluntary motion, appetite, and aversion—all phenomena that can be studied and explained from a mechanistic point of view. Hobbes has nothing to say about what the modern-day Australian philosopher David Chalmers calls “the hard problem of consciousness.” Chalmers points out that certain functions of consciousness—such as the use of language and the processing of information—can be explained relatively easily in terms of the mechanisms that perform those functions, and that physicalist philosophers have been offering variants of this approach for centuries. However, the harder problem of explaining the nature of subjective, first-person experience of consciousness remains unsolved by them. There seems to be a built-in mismatch between the objects of the physical sciences on the one hand and the subjects of conscious experience on the other—something that Hobbes does not seem to be aware of.
+
+Hobbes’ account of his belief offers very little argument for his conviction that everything in the world, including human beings, is wholly physical. He appears not to notice that his grounds for the existence of imperceptible material spirits could equally be grounds for a belief in nonmaterial substances. To most people, something being imperceptible is more consistent with a mental than with a physical concept. In addition, because Hobbes’ material spirits can only ever possess the same properties as other types of physical thing, they fail to offer any assistance toward an explanation of the mental nature of human beings.
+
+"For what is the heart, but a spring; and the nerves, but so many strings; and the joints, but so many wheels, giving motion to the whole body."
+
+Thomas Hobbes
+
+Descartes’ dualism
+
+Hobbes also had to contend with the very different thinking about mind and body that Descartes set out in his Meditations of 1641. Descartes argues for the “Real Distinction” between mind and body—the notion that they are utterly distinct sorts of substance. In objections to Descartes’ ideas that he expressed at the time, Hobbes makes no comment on this distinction. However, 14 years later, he addressed the problem again in a passage in his book De Corpore, presenting and criticizing what seems to be a muddled form of part of Descartes’ argument. Here he rejects the conclusion Descartes came to—that mind and body are two distinct substances—on the basis that Descartes’ use of the phrase “incorporeal substance” is an example of insignificant or empty language. Hobbes takes it to mean “a body without body”, which appears to be nonsense. However, this definition must be based upon his own view that all substances are bodies; so what Hobbes appears to present as an argument for his position that there can be no incorporeal minds, in fact depends upon his inaccurate assumption that the only form of substance is body, and that there is no possibility of incorporeal things existing at all.
+
+A simple prejudice
+
+As Hobbes’ definition of physical spirits indicates, it is ultimately unclear exactly what he took “physical” or “corporeal” to mean. If it was meant to be simply anything that had three spatial dimensions, then he would be excluding much of what we, at the beginning of the 21st century, might regard as being “physical.” For example, his theories about the nature of the world would rule out the science of sub-atomic physics.
+
+In the absence of any truly clear notion of what his key term means, Hobbes’ insistence that everything in the world can be explained in physical terms begins to look less and less like a statement of scientific principle. Instead, it starts to appear to be merely an unscientific—and unphilosophical—prejudice against the mental. But his mechanistic theories about the nature of our world were very much in keeping with the spirit of an age that was to radically challenge most of the prevailing views on human nature and social order, as well as those concerned with the substance and workings of the universe that we inhabit. It was this revolution in thinking that laid the foundations of our modern world.
+
+While Hobbes was formulating his mechanistic ideas, scientists such as the physician William Harvey were using empirical techniques to explore the workings of the human body.
+
+THOMAS HOBBES
+
+Orphaned in infancy, Thomas Hobbes was fortunately taken in by a wealthy uncle, who offered him a good education. A degree from the University of Oxford earned him the post of tutor to the sons of the Earl of Devonshire. This job gave Hobbes the opportunity to travel widely throughout Europe, where he met noted scientists and thinkers, such as the Italian astronomer Galileo Galilei as well as the French philosophers Marin Mersenne, Pierre Gassendi, and René Descartes.
+
+In 1640, Hobbes fled to France to escape the English Civil War, staying there for 11 years. His first book, De Cive, was published in Paris in 1642. But it was his ideas on morality, politics, and the functions of society and the state, set out in Leviathan, that made him famous.
+
+Also respected as a skilled translator and mathematician, Hobbes continued to write until his death at the age of 91.
+
+Key works
+
+1642 De Cive
+
+1651 Leviathan
+
+1656 De Corpore
+
+1658 De Homine
+
+See also: Aristotle • Francis Bacon • René Descartes • Julien Offray de la Mettrie • Gilbert Ryle

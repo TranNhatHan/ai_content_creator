@@ -1,0 +1,89 @@
+IN CONTEXT
+
+BRANCH
+
+Philosophy of science
+
+APPROACH
+
+Analytic philosophy
+
+BEFORE
+
+4th century BCE Aristotle stresses the importance of observation and measurement to understanding the world.
+
+1620 Francis Bacon sets out the inductive methods of science in Novum Organum.
+
+1748 David Hume’s Enquiry concerning Human Understanding raises the problem of induction.
+
+AFTER
+
+1962 Thomas Kuhn criticizes Popper in The Structure of Scientific Revolutions.
+
+1978 Paul Feyerabend, in Against Method, questions the very idea of scientific method.
+
+We often think that science works by “proving” truths about the world. We might imagine that a good scientific theory is one that we can prove conclusively to be true. The philosopher Karl Popper, however, insists that this is not the case. Instead, he says that what makes a theory scientific is that it is capable of being falsified, or being shown to be wrong by experience.
+
+Popper is interested in the method by which science finds out about the world. Science depends on experiment and experience, and if we want to do science well, we need to pay close attention to what philosopher David Hume called the “regularities” of nature—the fact that events unfold in the world in particular patterns and sequences that can be systematically explored. Science, in other words, is empirical, or based on experience, and to understand how it works we need to understand how experience in general leads to knowledge.
+
+Consider the following statement: “If you drop a tennis ball from a second-floor window, it will fall to the ground.” Leaving aside any chance events (such as the ball being snatched away by a passing eagle), we can be fairly sure that this claim is a reasonable one. It would be a strange person who said, “Hold on, are you sure it will fall to the ground?” But how do we know that this is what will happen when we drop the tennis ball? What kind of knowledge is this?
+
+The short answer is that we know it will fall because that is what it always does. Leaving aside chance events, no-one has ever found that a tennis ball hovers or rises upward when it is released. We know it falls to the ground because experience has shown us that this will happen. And not only can we be sure that the ball will fall to the ground, we can also be sure about how it will fall to the ground. For example, if we know the force of gravity, and how high the window is above the ground, we can calculate the speed at which the ball will fall. Nothing about the event is even remotely mysterious.
+
+Nevertheless, the question remains: can we be certain that the next time we drop the ball it will fall to the ground? No matter how often we conduct the experiment, and no matter how confident we become about its outcome, we can never prove that the result will be the same in the future.
+
+Black swans were first encountered by Europeans in the 17th century. This falsified the idea that all swans are white, which at the time was held to be universally true.
+
+Inductive reasoning
+
+This inability to speak with any certainty about the future is called the problem of induction, and it was first recognized by Hume in the 18th century. So what is inductive reasoning?
+
+Induction is the process of moving from a set of observed facts about the world to more general conclusions about the world. We expect that if we drop the ball it will fall to the ground because, at least according to Hume, we are generalizing from innumerable experiences of similar occasions on which we have found things like balls to fall to the ground when we release them.
+
+Deductive reasoning
+
+Another form of reasoning, which philosophers contrast with induction, is deductive reasoning. While induction moves from the particular case to the general, deduction moves from the general case to the particular. For instance, a piece of deductive reasoning might start from two premises, such as: “If it is an apple, then it is a fruit (since all apples are fruit)” and “This is an apple.” Given the nature of these premises, the statement “This is an apple” leads inescapably to the conclusion “It is a fruit.”
+
+Philosophers like to simplify deductive arguments by writing them out in notation. So the general form of the argument above would be “If P then Q; since P, therefore Q.” In our example, “P” stands for “It is an apple”, and “Q” stands for “It is a fruit.” Given the starting points “If P then Q” and “P”, then the conclusion “Q” is necessary, or unavoidably true. Another example would be: “If it is raining, the cat will meow (since all cats meow in the rain). It is raining, therefore the cat will meow.”
+
+All arguments of this kind are considered by philosophers to be valid arguments, because their conclusions follow inevitably from their premises. However, the fact that an argument is valid does not mean that its conclusions are true. For example, the argument “If it is a cat, then it is banana-flavored; this is a cat, therefore it is banana-flavored” is valid, because it follows a valid form. But most people would agree that the conclusion is false. And a closer look shows that there is a problem, from an empirical perspective, with the premise “If it is a cat, then it is banana-flavored”, because cats, in our world at least, are not banana-flavored. In other words, because the premise is untrue, even though the argument itself is valid, the conclusion is also untrue. Other worlds can be imagined in which cats are in fact banana-flavored, and for this reason the statement that cats are not banana-flavored is said to be contingently true, rather than logically or necessarily true, which would demand that it be true in all possible worlds. Nevertheless, arguments that are valid and have true premises are called “sound” arguments. The banana-flavored cat argument, as we have seen, is valid but not sound—whereas the argument about apples and fruit is both valid and sound.
+
+"Every solution to a problem creates new unsolved problems."
+
+Karl Popper
+
+An example of the problem of induction is that no matter how reliably a tennis ball behaves in the present, we can never know for certain how it will behave in the future.
+
+"Science may be described as the art of systematic over-simplification."
+
+Karl Popper
+
+Falsifiability
+
+Deductive arguments could be said to be like computer programs—the conclusions they reach are only as good as the data that is fed into them. Deductive reasoning has an important role to play in the sciences, but on its own, it cannot say anything about the world. It can only say “If this is the case, then that is the case.” And if we want to use such arguments in the sciences, we still have to rely on induction for our premises, and so science is lumbered with the problem of induction.
+
+For this reason, according to Popper, we cannot prove our theories to be true. Moreover, what makes a theory scientific is not that it can be proved at all, but that it can be tested against reality and shown to be potentially false. In other words, a falsifiable theory is not a theory that is false, but one that can only be shown to be false by observation.
+
+Theories that are untestable (for example, that we each have an invisible spirit guide, or that God created the universe) are not part of the natural sciences. This does not mean that they are worthless, only that they are not the kinds of theories that the sciences deal with.
+
+The idea of falsifiability does not mean we are unjustified in having a belief in theories that cannot be falsified. Beliefs that stand up to repeated testing, and that resist our attempts at falsification, can be taken to be reliable. But even the best theories are always open to the possibility that a new result will show them to be false.
+
+Popper’s work has not been without its critics. Some scientists claim that he presents an idealized view of how they go about their work, and that science is practiced very differently from how Popper suggests. Nevertheless, his idea of falsifiability is still used in distinguishing between scientific and non-scientific claims, and Popper remains perhaps the most important philosopher of science of the 20th century.
+
+Experiments can show that certain phenomena reliably follow others in nature. But Popper claims that no experiment can ever verify a theory, or even show that it is probable.
+
+KARL POPPER
+
+Karl Popper was born in Vienna, Austria, in 1902. He studied philosophy at the University of Vienna, after which he spent six years as a schoolteacher. It was during this time that he published The Logic of Scientific Discovery, which established him as one of the foremost philosophers of science. In 1937, he emigrated to New Zealand, where he lived until the end of World War II, and where he wrote his study of totalitarianism, The Open Society and Its Enemies. In 1946, he moved to England to teach, first at the London School of Economics, then at the University of London. He was knighted in 1965, and remained in England for the rest of his life. Although he retired in 1969, he continued to write and publish until his death in 1994.
+
+Key works
+
+1934 The Logic of Scientific Discovery
+
+1945 The Open Society and Its Enemies
+
+1957 The Poverty of Historicism
+
+1963 Conjectures and Refutations: The Growth of Scientific Knowledge
+
+See also: Socrates • Aristotle • Francis Bacon • David Hume • Rudolf Carnap • Thomas Kuhn • Paul Feyerabend

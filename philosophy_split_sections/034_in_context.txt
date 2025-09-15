@@ -1,0 +1,91 @@
+IN CONTEXT
+
+BRANCH
+
+Epistemology
+
+APPROACH
+
+Rationalism
+
+BEFORE
+
+1340 Nicolaus of Autrecourt argues that there are no necessary truths about the world, only contingent truths.
+
+1600s René Descartes claims that ideas come to us in three ways; they can be derived from experience, drawn from reason, or known innately (being created in the mind by God).
+
+AFTER
+
+1748 David Hume explores the distinction between necessary and contingent truths.
+
+1927 Alfred North Whitehead postulates “actual entities”, similar to Leibniz’s monads, which reflect the whole universe in themselves.
+
+Early modern philosophy is often presented as being divided into two schools—that of the rationalists (including René Descartes, Benedictus Spinoza, and Immanuel Kant) and that of the empiricists (including John Locke, George Berkeley, and David Hume). In fact, the various philosophers did not easily fall into two clear groups, each being like and unlike each of the others in complex and overlapping ways. The essential difference between the two schools, however, was epistemological—that is, they differed in their opinions about what we can know, and how we know what we know. Put simply, the empiricists held that knowledge is derived from experience, while the rationalists claimed that knowledge can be gained through rational reflection alone.
+
+Leibniz was a rationalist, and his distinction between truths of reasoning and truths of fact marks an interesting twist in the debate between rationalism and empiricism. His claim, which he makes in most famous work, the Monadology, is that in principle all knowledge can be accessed by rational reflection. However, due to shortcomings in our rational faculties, human beings must also rely on experience as a means of acquiring knowledge.
+
+"We know hardly anything adequately, few things a priori, and most things through experience."
+
+Gottfried Wilhelm Leibniz
+
+A map of the internet shows the innumerable connections between internet users. Leibniz’s theory of monads suggests that all our minds are similarly connected.
+
+A universe in our minds
+
+To see how Leibniz arrives at this conclusion, we need to understand a little of his metaphysics—his view of how the universe is constructed. He holds that every part of the world, every individual thing, has a distinct concept or “notion” associated with it, and that every such notion contains within it everything that is true about itself, including its relations to other things. Because everything in the universe is connected, he argues, it follows that every notion is connected to every other notion, and so it is possible—at least in principle—to follow these connections and to discover truths about the entire universe through rational reflection alone. Such reflection leads to Leibniz’s “truths of reasoning.” However, the human mind can grasp only a small number of such truths (such as those of mathematics), and so it has to rely on experience, which yields “truths of fact.”
+
+So how is it possible to progress from knowing that it is snowing, for example, to knowing what will happen tomorrow somewhere on the other side of the world? For Leibniz, the answer lies in the fact that the universe is composed of individual, simple substances called “monads.” Each monad is isolated from other monads, and each contains a complete representation of the whole universe in its past, present, and future states. This representation is synchronized between all the monads, so that each one has the same content. According to Leibniz, this is how God created things—in a state of “pre-established harmony.”
+
+Leibniz claims that every human mind is a monad, and so contains a complete representation of the universe. It is therefore possible in principle for us to learn everything that there is to know about our world and beyond simply by exploring our own minds. Simply by analyzing my notion of the star Betelgeuse, for example, I will eventually be able to determine the temperature on the surface of the actual star Betelgeuse. However, in practice, the analysis that is required for me reach this information is impossibly complex—Leibniz calls it “infinite”—and because I cannot complete it, the only way that I can discover the temperature of Betelgeuse is by measuring it empirically using astronomical equipment.
+
+Is the temperature of the surface of Betelgeuse a truth of reasoning or a truth of fact? It may be true that I had to resort to empirical methods to discover the answer, but had my rational faculties been better I could also have discovered it through rational reflection. Whether it is a truth of reasoning or a truth of fact, therefore, seems to depend on how I arrive at the answer—but is this what Leibniz is claiming?
+
+"Each singular substance expresses the whole universe in its own way."
+
+Gottfried Wilhelm Leibniz
+
+Necessary truths
+
+The trouble for Leibniz is that he holds that truths of reasoning are “necessary”, meaning that it is impossible to contradict them, while truths of fact are “contingent”; they can be denied without logical contradiction. A mathematical truth is a necessary truth, because denying its conclusions contradicts the meanings of its own terms. But the proposition “it is raining in Spain” is contingent, because denying it does not involve a contradiction in terms—although it may still be factually incorrect.
+
+Leibniz’s distinction between truths of reasoning and truths of fact is not simply an epistemological one (about the limits of knowledge), but also a metaphysical one (about the nature of the world), and it is not clear that his arguments support his metaphysical claim. Leibniz’s theory of monads seems to suggest that all truths are truths of reasoning, which we would have access to if we could finish our rational analysis. But as a truth of reasoning is a necessary truth, in what way is it impossible for the temperature on Betelgeuse to be 2,401 Kelvin rather than 2,400 Kelvin? Certainly not impossible in the sense that the proposition 2 + 2 = 5 is impossible, for the latter is simply a logical contradiction.
+
+Likewise, if we follow Leibniz and separate neccesary and contingent truths, we end up with the following problem: I can discover Pythagoras’s theorem simply by reflecting on the idea of triangles, so Pythagoras’s theorem must be a truth of reasoning. But Betelgeuse’s temperature and Pythagoras’s theorem are both just as true, and just as much part of the monad that is my mind—so why should one be considered contingent and the other necessary?
+
+Moreover, Leibniz tells us that whereas no-one can reach the end of an infinite analysis, God can grasp the whole universe at once, and so for him all truths are neccessary truths. The difference between a truth of reasoning and a truth of fact, therefore, does seem to be a matter of how one comes to know it—and in that case it is difficult to see why the former should always be seen to be necessarily true, while the latter may or may not be true.
+
+"God understands everything through eternal truth, since he does not need experience."
+
+Gottfried Wilhelm Leibniz
+
+An uncertain future
+
+In setting out a scheme in which an omnipotent, omniscient God creates the universe, Leibniz inevitably faces the problem of accounting for the notion of freedom of will. How can I choose to act in a certain way if God already knows how I am going to act? But the problem runs deeper—there seems to be no room for genuine contingency at all. Leibniz’s theory only allows for a distinction between truths whose necessity we can discover, and truths whose necessity only God can see. We know (if we accept Leibniz’s theory) that the future of the world is set by an omniscient and benevolent god, who therefore has created the best of all possible worlds. But we call the future contingent, or undetermined, because as limited human beings we cannot see its content.
+
+The mechanical calculator was one of Leibniz’s many inventions. Its creation is a testament to his interest in mathematics and logic—fields in which he was a great innovator.
+
+Leibniz’s legacy
+
+In spite of the difficulties inherent in Leibniz’s theory, his ideas went on to shape the work of numerous philosophers, including David Hume and Immanuel Kant. Kant refined Leibniz’s truths of reasoning and truths of fact into the distinction between “analytic” and “synthetic” statements—a division that has remained central to European philosophy ever since.
+
+Liebniz’s theory of monads fared less well, and was criticized for its metaphysical extravagance. In the 20th century, however, the idea was rediscovered by scientists who were intrigued by Leibniz’s description of space and time as a system of relationships, rather than the absolutes of traditional Newtonian physics.
+
+GOTTFRIED LEIBNIZ
+
+Gottfried Leibniz was a German philosopher and mathematician. He was born in Leipzig, and after university he took public service with the Elector of Mainz for five years, during which time he concentrated mainly on political writings. After a period spent travelling, he took up the post of librarian to the Duke of Brunswick, in Hanover, and remained there until his death. It was during this last period of his life that he did most of the work on the development of his unique philosophical system.
+
+Leibniz is famous in mathematics for his invention of the so-called “infinitesimal calculus” and the argument that followed this, as both Leibniz and Newton claimed the discovery as their own. It seems clear that they had in fact reached it independently, but Leibniz developed a much more usable notation which is still used today.
+
+Key works
+
+1673 A Philosopher’s Creed
+
+1685 Discourse on Metaphysics
+
+1695 The New System
+
+1710 Theodicy
+
+1714 Monadology
+
+See also: Nicolaus of Autrecourt • René Descartes • David Hume • Immanuel Kant • Alfred North Whitehead

@@ -1,0 +1,93 @@
+IN CONTEXT
+
+BRANCH
+
+Ethics
+
+APPROACH
+
+Pragmatism
+
+BEFORE
+
+5th century BCE Socrates disputes the nature of justice, goodness, and other concepts with the citizens of Athens.
+
+4th century BCE Aristotle writes a treatise on the nature of the soul.
+
+1878 Charles Sanders Peirce coins the term “pragmatism.”
+
+1956 American philosopher Wilfrid Sellars publishes Empiricism and the Philosophy of Mind, calling into question the “myth of the given.”
+
+AFTER
+
+1994 South-African-born philosopher John McDowell publishes Mind and World, a book strongly influenced by Rorty’s work.
+
+The soul is a curious thing. Even if we cannot say much about our souls or describe what a soul is like, many of us nonetheless hold firmly to the belief that, somewhere deep down, we each have such a thing. Not only this, we might claim that this thing is the fundamental self (“me”) and, at the same time, is somehow connected directly with the truth or reality.
+
+The tendency to picture ourselves as possessing a kind of “double”—a soul or a deep self that “uses Reality’s own language”—is explored by American philosopher Richard Rorty in the introduction to his book, The Consequences of Pragmatism (1982). Rorty argues that, to the extent that we have such a thing at all, a soul is a human invention; it is something that we have put there ourselves.
+
+Knowledge as a mirror
+
+Rorty was a philosopher who worked within the American tradition of pragmatism. In considering a statement, most philosophical traditions ask “is this true?”, in the sense of: “does this correctly represent the way things are?.” But pragmatists consider statements in quite a different way, asking instead: “what are the practical implications of accepting this as true?”
+
+Rorty’s first major book, Philosophy and the Mirror of Nature, published in 1979, was an attempt to argue against the idea that knowledge is a matter of correctly representing the world, like some kind of mental mirror. Rorty argues that this view of knowledge cannot be upheld, for two reasons. First, we assume that our experience of the world is directly “given” to us—we assume that what we experience is the raw data of how the world is. Second, we assume that once this raw data has been collected, our reason (or some other faculty of mind) then starts to work on it, reconstructing how this knowledge fits together as a whole, and mirroring what is in the world.
+
+Rorty follows the philosopher Wilfrid Sellars in claiming that the idea of experience as “given” is a myth. We cannot ever access anything like raw data—it is not possible for us to experience a dog, for instance, outside of thought or language. We only become aware of something through conceptualizing it, and our concepts are learned through language. Our perceptions are therefore inextricably tangled up with the habitual ways that we use language to divide up the world.
+
+Rorty suggests that knowledge is not so much a way of mirroring nature as “a matter of conversation and social practice.” When we decide what counts as knowledge, our judgement rests not on how strongly a “fact” correlates to the world, so much as whether it is something “that society lets us say.” What we can and cannot count as knowledge is therefore limited by the social contexts that we live in, by our histories, and by what those around us will allow us to claim. “Truth,” said Rorty, “is what your contemporaries let you get away with saying.”
+
+"Philosophy makes progress not by becoming more rigorous but by becoming more imaginative."
+
+Richard Rorty
+
+Some theories of knowledge claim that we gain knowledge by processing “raw data” like a camera captures light, but Rorty says our perceptions are tangled up with our beliefs, which we impose on things in the world.
+
+Reasons for judgement
+
+But does truth really reduce down to a matter of what we can get away with? Rorty is aware that there are some disturbing implications here, especially in questions of ethics. Imagine, for instance, that I kidnap my neighbor’s pet hamster and subject it to all manner of cruel tortures, simply for the fun of hearing it squeak. We might all agree that doing such a thing to the poor hamster (or, for that matter, doing such a thing to my neighbor) is a morally blameable act. We might claim that there is something absolutely and fundamentally wrong about doing such a thing to another living being; and we might all agree that we ought not let other people get away with such things.
+
+But when we look at the reasons that we give for saying that this is a morally blameable act, things become interesting. For example, imagine that you are asked by a particularly awkward moral philosopher why it is wrong to treat hamsters (or horses, or humans) in this way. At first you might suggest all manner of reasons. But philosophy being what it is, and moral philosophers being the kinds of beings they are, you might find that for every reason you can think of, your philosopher friend has a counter-reason or leads you into some kind of contradiction.
+
+This is, in fact, precisely what the philosopher Socrates did in ancient Athens. Socrates wanted to find out what concepts such as “goodness” and “justice” really were, so he questioned people who used these concepts, to find out whether they really knew what these things were. As the dialogues of Plato show, most of the people Socrates talked to were surprisingly unclear about what it was they were actually talking about, despite their earlier conviction that they fully grasped the relevant concepts. In the same way, after an hour or two of being interrogated by a modern-day Socrates about how to treat hamsters, you might blurt out in frustration the following sentence: “But I just know, in my heart of hearts, that it is wrong!”
+
+Using children as soldiers may seem intrinsically wrong, but Rorty says there are no ethical absolutes. Ethics is a matter of doing our best, in solidarity with others, to realize a better world.
+
+"What sort of a world can we prepare for our great-grandchildren?"
+
+Richard Rorty
+
+My heart of hearts
+
+We say or think this kind of thing relatively frequently, but it is not immediately clear what exactly we mean. To examine the idea more closely, we can break it down into three parts. First, it seems that when we say “I know, in my heart of hearts, that it is wrong”, we are speaking as if there is something out there in the world that is “wrongness”, and that this thing is knowable. Or, as some philosophers put it, we are speaking as if there is an essence of “wrongness” to which this particular instance of wrongness corresponds.
+
+Second, by saying that we just “know” in our heart of hearts, we imply that this mysterious entity—our “heart of hearts”—is a thing that, for reasons unknown, has a particular grasp of truth.
+
+Third, we seem to be speaking as if there is a straightforward relationship between our “heart of hearts” and this “wrongness” that lies out there in the world, such that if we know something in our heart of hearts, we can have access to an absolutely certain kind of knowledge. In other words, this is just another version of the idea that knowledge is a way of mirroring the world. And this, Rorty believes, is unacceptable.
+
+"If we can rely on one another, we need not rely on anything else."
+
+Richard Rorty
+
+A world without absolutes
+
+In order for his beliefs to be consistent, Rorty has to give up on the idea of fundamental moral truths. There can be no absolute right or wrong if knowledge is “what society lets us say.” Rorty recognizes that this is a difficult thing to accept. But is it necessary to believe that on doing something morally wrong you are betraying something deep within you? Must you believe that there is “some truth about life, or some absolute moral law, that you are violating” in order to maintain even a shred of human decency? Rorty thinks not. He maintains that we are finite beings, whose existence is limited to a short time on Earth, and none of us have a hotline to some deeper, more fundamental moral truth. However, this does not imply that the problems of life have either gone away or ceased to matter. These problems are still with us, and in the absence of absolute moral laws we are thrown back upon our own resources. We are left, Rorty writes, with “our loyalty to other human beings clinging together against the dark.” There is no absolute sense of rightness and wrongness to be discovered. So we simply have to hold on to our hopes and loyalties, and continue to participate in involved conversations in which we talk about these difficult issues.
+
+Perhaps, Rorty is saying, these things are enough: the humility that comes from recognizing that there is no absolute standard of truth; the solidarity we have with others; and our hopes that we may be able to contribute to, and to bequeath to those who come after us, a world that is worth living in.
+
+We do not need to believe in an absolute moral law in order to live as ethical beings. Conversation, social hope, and solidarity with others allow us to form a working definition of “the good.”
+
+RICHARD RORTY
+
+Richard Rorty was born in New York, USA in 1931. His parents were political activists, and Rorty describes his early years as being spent reading about Leon Trotsky, the Russian revolutionary. He said that he knew by the age of 12 that “the point of being human was to spend one’s life fighting social injustice.” He began attending the University of Chicago early, at the age of 15, going on to take a PhD at Yale in 1956. He was then drafted into the army for two years, before becoming a professor. He wrote his most important book, Philosophy and the Mirror of Nature, while professor of philosophy at Princeton. He wrote widely on philosophy, literature, and politics and, unusually for a 20th-century philosopher, drew on both the so-called analytic and the continental traditions. Rorty died of cancer aged 75.
+
+Key works
+
+1979 Philosophy and the Mirror of Nature
+
+1989 Contingency, Irony, and Solidarity
+
+1998 Achieving Our Country
+
+1999 Philosophy and Social Hope
+
+See also: Socrates • Aristotle • Charles Sanders Peirce • William James • John Dewey • Jürgen Habermas

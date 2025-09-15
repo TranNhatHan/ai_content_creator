@@ -1,0 +1,63 @@
+IN CONTEXT
+
+BRANCH
+
+Ontology
+
+APPROACH
+
+Phenomenology
+
+BEFORE
+
+5th century BCE Socrates uses argument to try to answer philosophical questions with certainty.
+
+17th century René Descartes uses doubt as a starting point for his philosophical method.
+
+1874 Franz Brentano, Husserl’s teacher, claims that philosophy needs a new scientific method.
+
+AFTER
+
+From 1920s Martin Heidegger, Husserl’s student, develops his teacher’s method of phenomenology, leading to the birth of existentialism.
+
+From 1930s Husserl’s phenomenology reaches France, influencing thinkers such as Emmanuel Levinas and Maurice Merleau-Ponty.
+
+Husserl was a philosopher haunted by a dream that has preoccupied thinkers since the time of the ancient Greek philosopher Socrates: the dream of certainty. For Socrates, the problem was this: although we easily reach agreement on questions about things we can measure (for example, “how many olives are there in this jar?”), when it comes to philosophical questions such as “what is justice?” or “what is beauty?”, it seems that there is no clear way of reaching agreement. And if we cannot know for certain what justice is, then how can we say anything about it at all?
+
+The problem of certainty
+
+Husserl was a philosopher who started life as a mathematician. He dreamed that problems such as “what is justice?” might be solved with the same degree of certainty with which we are able to solve mathematical problems such as “how many olives are in the jar?” In other words, he hoped to put all the sciences—by which he meant all branches of human knowledge and activity, from math, chemistry, and physics to ethics and politics—on a completely secure footing.
+
+Scientific theories are based on experience. But Husserl believed that experience alone did not add up to science, because as any scientist knows, experience is full of all kinds of assumptions, biases, and misconceptions. Husserl wanted to drive out all of these uncertainties to give science absolutely certain foundations.
+
+To do this, Husserl made use of the philosophy of the 17th-century philosopher René Descartes. Like Husserl, Descartes wanted to free philosophy from all assumptions, biases, and doubts. Descartes wrote that although almost everything could be doubted, he could not doubt that he was doubting.
+
+Phenomenology
+
+Husserl takes up a similar approach to Descartes, but uses it differently. He suggests that if we adopt a scientific attitude to experience, laying aside every single assumption that we have (even including the assumption that an external world exists outside of us), then we can start philosophy with a clean slate, free of all assumptions. Husserl calls this approach phenomenology: a philosophical investigation of the phenomena of experience. We need to look at experience with a scientific attitude, laying to one side (or “bracketing out” as Husserl calls it) every single one of our assumptions. And if we look carefully and patiently enough, we can build a secure foundation of knowledge that might help us deal with the philosophical problems that have been with us since the very beginnings of philosophy.
+
+However, different philosophers following Husserl’s method came to different results, and there was little agreement as to what the method actually was, or how one carried it out. Toward the end of his career, Husserl wrote that the dream of putting the sciences on firm foundations was over. But although Husserl’s phenomenology failed to provide philosophers with a scientific approach to experience, or to solve philosophy’s most enduring problems, it nevertheless gave birth to one of the richest traditions in 20th-century thought.
+
+Mathematics does not rely on empirical evidence, which is full of assumptions, to reach its conclusions. Husserl wanted to put all science (and all knowledge) on a similar foundation.
+
+"We entirely lack a rational science of man and of the human community."
+
+Edmund Husserl
+
+EDMUND HUSSERL
+
+Husserl was born in 1859 in Moravia, then a part of the Austrian empire. He started his career studying mathematics and astronomy, but after finishing his doctorate in mathematics he decided to take up philosophy.
+
+In 1887 Husserl married Malvine Steinschneider, with whom he had three children. He also became Privatdozent (private lecturer) at Halle, where he remained until 1901. He then accepted an associate professorship at the University of Göttingen, before becoming a professor of philosophy at the University of Freiburg in 1916, where Martin Heidegger was among his students. In 1933, Husserl was suspended from the university on account of his Jewish background, a decision in which Heidegger was implicated. Husserl continued to write until his death in 1938.
+
+Key works
+
+1901 Logical Investigations
+
+1907 The Idea of Phenomenology
+
+1911 Philosophy as a Rigorous Science
+
+1913 Ideas toward a Pure Phenomenology
+
+See also: René Descartes • Franz Brentano • Martin Heidegger • Emmanuel Levinas • Maurice Merleau-Ponty

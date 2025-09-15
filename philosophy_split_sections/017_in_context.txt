@@ -1,0 +1,55 @@
+IN CONTEXT
+
+BRANCH
+
+Epistemology
+
+APPROACH
+
+Epistemology
+
+BEFORE
+
+c.350 BCE Aristotle outlines the problems of claiming as true any statement about the outcome of a future event.
+
+c.300 BCE Syrian philosopher Iamblichus says that what can be known depends upon the knower’s capacity.
+
+AFTER
+
+c.1250–70 Thomas Aquinas agrees with Boethius that God exists outside of time, and so is transcendent and beyond human understanding.
+
+c.1300 John Duns Scotus says that human freedom rests on God’s own freedom to act, and that God knows our future, free actions by knowing his own, unchanging—but free—will.
+
+The Roman philosopher Boethius was trained in the Platonist tradition of philosophy, and was also a Christian. He is famous for his solution to a problem that predates Aristotle: if God already knows what we are going to do in the future, how can we be said to have free will?
+
+The best way to understand the dilemma is to imagine a situation in everyday life. For instance, this afternoon I might go to the cinema, or I might spend time writing. As it turns out, I go to the cinema. That being the case, it is true now (before the event) that I will go the cinema this afternoon. But if it is true now, then it seems that I do not really have the choice of spending the afternoon writing. Aristotle was the first to define this problem, but his answer to it is not very clear; he seems to have thought that a sentence such as “I shall go to the cinema this afternoon” is neither true nor false, or at least not in the same way as “I went to the cinema yesterday.”
+
+A God beyond time
+
+Boethius faced a harder version of the same problem. He believed that God knows everything; not only the past and the present, but also the future. So if I am going to go to the cinema this afternoon, God knows it now. It seems, therefore, that I am not really free to choose to spend the afternoon writing, since that would conflict with what God already knows.
+
+Boethius solves the problem by arguing that the same thing can be known in different ways, depending on the nature of the knower. My dog, for instance, knows the sun only as something with qualities he can sense—by sight and touch. A person, however, can also reason about the category of thing the sun is, and may know which elements it is made of, its distance from Earth, and so on.
+
+Boethius considers time in a similar kind of way. As we live in the flow of time, we can only know events as past (if they have occurred), present (if they are happening now), or future (if they will come to pass). We cannot know the outcome of uncertain future events. God, by contrast, is not in the flow of time. He lives in an eternal present, and knows what to us are past, present, and future in the same way that we know the present. And just as my knowledge that you are sitting now does not interfere with your freedom to stop, so too God’s knowledge of our future actions, as if they were present, does not stop them from being free.
+
+Some thinkers today argue that since I have not yet decided whether I shall go to the cinema this afternoon, there is simply nothing to be known about it, so even a God who is all-knowing does not, and cannot, know if I shall go or not.
+
+"Everything is known, not according to itself, but according to the capacity of the knower."
+
+Boethius
+
+Lady Philosophy and Boethius discuss free will, determinism, and God’s vision of the eternal present in his influential book, The Consolation of Philosophy.
+
+BOETHIUS
+
+Anicius Boethius was a Christian Roman aristocrat, born at a time when the Roman Empire was disintegrating and the Ostrogoths ruled Italy. He became an orphan at the age of seven and was brought up by an aristocratic family in Rome. He was extremely well educated, speaking fluent Greek and having an extensive knowledge of Latin and Greek literature and philosophy. He devoted his life to translating and commenting on Greek texts, especially Aristotle’s works on logic, until he was made chief adviser to the Ostrogothic king Theoderic. Some five years later he became a victim of court intrigue, was wrongly accused of treason, and sentenced to death. He wrote his most famous work, The Consolation of Philosophy, while in prison awaiting execution.
+
+Key works
+
+c.510 Commentaries on Aristotle’s “Categories”
+
+c.513–16 Commentaries on Aristotle’s “On Interpretation”
+
+c.523–26 The Consolation of Philosophy
+
+See also: Aristotle • Thomas Aquinas • John Duns Scotus • Benedictus Spinoza • Immanuel Kant

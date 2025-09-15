@@ -1,0 +1,91 @@
+IN CONTEXT
+
+BRANCH
+
+Epistemology
+
+APPROACH
+
+Epistemology
+
+BEFORE
+
+6th century BCE The Milesian philosophers propose theories to explain the nature and substance of the cosmos.
+
+c.500 BCE Heraclitus argues that everything is constantly in a state of flux or change.
+
+c.450 BCE Protagoras says that truth is relative.
+
+AFTER
+
+c.335 BCE Aristotle teaches that we can find truth by observing the world around us.
+
+c.250 CE Plotinus founds the Neo-Platonist school, a religious take on Plato’s ideas.
+
+386 St. Augustine of Hippo integrates Plato’s theories into Christian doctrine.
+
+In 399 BCE, Plato’s mentor Socrates was condemned to death. Socrates had left no writings, and Plato took it upon himself to preserve what he had learnt from his master for posterity—first in the Apology, his retelling of Socrates’ defense at his trial, and later by using Socrates as a character in a series of dialogues. In these dialogues, it is sometimes difficult to untangle which are Socrates’ thoughts and which are the original thoughts of Plato, but a picture emerges of Plato using the methods of his master to explore and explain his own ideas.
+
+Initially Plato’s concerns were very much those of his mentor: to search for definitions of abstract moral values such as “justice” and “virtue”, and to refute Protagoras’s notion that right and wrong are relative terms. In the Republic, Plato set out his vision of the ideal city-state and explored aspects of virtue. But in the process, he also tackled subjects outside moral philosophy. Like earlier Greek thinkers, he questioned the nature and substance of the cosmos, and explored how the immutable and eternal could exist in a seemingly changing world. However, unlike his predecessors, Plato concluded that the “unchanging” in nature is the same as the “unchanging” in morals and society.
+
+Seeking the Ideal
+
+In the Republic, Plato describes Socrates posing questions about the virtues, or moral concepts, in order to establish clear and precise definitions of them. Socrates had famously said that “virtue is knowledge”, and that to act justly, for example, you must first ask what justice is. Plato decides that before referring to any moral concept in our thinking or reasoning, we must first explore both what we mean by that concept and what makes it precisely the kind of thing that it is. He raises the question of how we would recognize the correct, or perfect, form of anything—a form that is true for all societies and for all time. By doing so, Plato is implying that he thinks some kind of ideal form of things in the world we inhabit—whether those things are moral concepts or physical objects—must actually exist, of which we are in some way aware.
+
+Plato talks about objects in the world around us, such as beds. When we see a bed, he states, we know that it is a bed and we can recognize all beds, even though they may differ in numerous ways. Dogs in their many species are even more varied, yet all dogs share the characteristic of “dogginess”, which is something we can recognize, and that allows us to say we know what a dog is. Plato argues that it is not just that a shared “dogginess” or “bedness” exists, but that we all have in our minds an idea of an ideal bed or dog, which we use to recognize any particular instance.
+
+Taking a mathematical example to further his argument, Plato shows that true knowledge is reached by reasoning, rather than through our senses. He states that we can work out in logical steps that the square of the hypotenuse of a right-angled triangle is equal to the sum of the squares of the other two sides, or that the sum of the three interior angles of any triangle is always 180 degrees. We know the truth of these statements, even though the perfect triangle does not exist anywhere in the natural world. Yet we are able to perceive the perfect triangle—or the perfect straight line or circle—in our minds, using our reason. Plato, therefore, asks whether such perfect forms can exist anywhere.
+
+World of Ideas
+
+Reasoning brings Plato to only one conclusion—that there must be a world of Ideas, or Forms, which is totally separate from the material world. It is there that the Idea of the perfect “triangle”, along with the Idea of the perfect “bed” and “dog” exists. He concludes that human senses cannot perceive this place directly—it is only perceptible to us through reason. Plato even goes on to state that this realm of Ideas is “reality”, and that the world around us is merely modelled upon it.
+
+To illustrate his theory, Plato presents what has become known as the “Allegory of the Cave.” He asks us to imagine a cave in which people have been imprisoned since birth, tied up facing the back wall in the darkness. They can only face straight ahead. Behind the prisoners is a bright fire, which casts shadows onto the wall they are facing. There is also a rampart between the fire and the prisoners along which people walk and hold up various objects from time to time, so that the shadows of these objects are cast on the wall. These shadows are all the prisoners know of the world; they have no concept of the actual objects themselves. If one of the prisoners manages to untie himself and turn around, he will see the objects themselves. But after a lifetime of entrapment, he is likely to be confused, as well as dazzled by the fire, and will most likely turn back toward the wall and the only reality he knows.
+
+Plato believes that everything that our senses perceive in the material world is like the images on the cave wall, merely shadows of reality. This belief is the basis of his theory of Forms, which is that for every earthly thing that we have the power to perceive with our senses, there is a corresponding “Form” (or “Idea”)—an eternal and perfect reality of that thing—in the world of Ideas. Because what we perceive via our senses is based on an experience of imperfect or incomplete “shadows” of reality, we can have no real knowledge of those things. At best, we may have opinions, but genuine knowledge can only come from study of the Ideas, and that can only ever be achieved through reason, rather than through our deceptive senses.
+
+This separation of two distinct worlds, one of appearance, the other of what Plato considers to be reality, also solves the problem of finding constants in an apparently changing world. The material world may be subject to change, but Plato’s world of Ideas is eternal and immutable. Plato applies his theory not just to concrete things, such as beds and dogs, but also to abstract concepts. In Plato’s world of Ideas, there is an Idea of justice, which is true justice, and all the instances of justice in the material world around us are models, or lesser variants, of it. The same is true of the concept of goodness, which Plato considers to be the ultimate Idea—and the goal of all philosophical enquiry.
+
+"If particulars are to have meaning, there must be universals."
+
+Plato
+
+The Allegory of the Cave, in which knowledge of the world is limited to mere shadows of reality and truth, is used by Plato to explain his idea of a world of perfect Forms, or Ideas.
+
+According to Plato’s theory of Forms, every horse that we encounter in the world around us is a lesser version of an “ideal”, or perfect, horse that exists in a world of Forms or Ideas—a realm that humans can only access through their ability to reason.
+
+Innate knowledge
+
+The problem remains of how we can come to know these Ideas, so that we have the ability to recognize the imperfect instances of them in the world we inhabit. Plato argues that our conception of Ideal Forms must be innate, even if we are not aware of this. He believes that human beings are divided into two parts: the body and the soul. Our bodies possess the senses, through which we are able to perceive the material world, while the soul possesses the reason with which we can perceive the realm of Ideas. Plato concludes that our soul, which is immortal and eternal, must have inhabited the world of Ideas before our birth, and still yearns to return to that realm after our death. So when we see variations of the Ideas in the world with our senses, we recognize them as a sort of recollection. Recalling the innate memories of these Ideas requires reason—an attribute of the soul.
+
+For Plato, the philosopher’s job is to use reason to discover the Ideal Forms or Ideas. In the Republic, he also argues that it is philosophers, or rather those who are true to the philosopher’s calling, who should be the ruling class. This is because only the true philosopher can understand the exact nature of the world and the truth of moral values. However, just like a prisoner in the “Allegory of the Cave” who sees the real objects rather than their shadows, many will just turn back to the only world they feel comfortable with. Plato often found it difficult to convince his fellow philosophers of the true nature of their calling.
+
+"The soul of man is immortal and imperishable."
+
+Plato
+
+Marcus Aurelius, Roman Emperor from 161 to 180 CE, was not just a powerful ruler, he was a noted scholar and thinker—a realization of Plato’s idea that philosophers should lead society.
+
+Unsurpassed legacy
+
+Plato himself was the embodiment of his ideal, or true, philosopher. He argued on questions of ethics that had been raised previously by the followers of Protagoras and Socrates, but in the process, he explored for the first time the path to knowledge itself. He was a profound influence on his pupil Aristotle—even if they fundamentally disagreed about the theory of Forms. Plato’s ideas later found their way into the philosophy of medieval Islamic and Christian thinkers, including St. Augustine of Hippo, who combined Plato’s ideas with those of the Church.
+
+By proposing that the use of reason, rather than observation, is the only way to acquire knowledge, Plato also laid the foundations of 17th-century rationalism. Plato’s influence can still be felt today—the broad range of subjects he wrote about led the 20th-century British logician Alfred North Whitehead to say that subsequent Western philosophy “consists of a set of footnotes to Plato.”
+
+"What we call learning is only a process of recollection."
+
+Plato
+
+PLATO
+
+Despite the large proportion of writings attributed to Plato that have survived, little is known about his life. He was born into a noble family in Athens in around 427 BCE and named Aristocles, but acquired the nickname “Plato” (meaning “broad”). Although probably destined for a life in politics, he became a pupil of Socrates. When Socrates was condemned to death, Plato is said to have become disillusioned with Athens, and left the city. He travelled widely, spending some time in southern Italy and Sicily, before returning to Athens around 385 BCE. Here he founded a school known as the Academy (from which the word “academic” comes), remaining its head until his death in 347 BCE.
+
+Key works
+
+c.399–387 BCE Apology, Crito, Giorgias, Hippias Major, Meno, Protagoras (early dialogues)
+
+c.380–360 BCE Phaedo, Phaedrus, Republic, Symposium (middle dialogues)
+
+c.360–355 BCE Parmenides, Sophist, Theaetetus (late dialogues)
+
+See also: Thales of Miletus • Heraclitus • Protagoras • Socrates • Aristotle • Plotinus • St. Augustine of Hippo

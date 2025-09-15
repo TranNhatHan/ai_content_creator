@@ -1,0 +1,93 @@
+IN CONTEXT
+
+BRANCH
+
+Epistemology
+
+APPROACH
+
+Deconstruction
+
+BEFORE
+
+4th century BCE Plato’s Meno explores the idea of “aporia.”
+
+Early 20th century Charles Sanders Peirce and Ferdinand de Saussure begin the study of signs and symbols (semiotics), which would become a key influence on Of Grammatology.
+
+1961 Emmanuel Levinas publishes Totality and Infinity, which Derrida would respond to in Writing and Difference. Levinas becomes a growing influence in Derrida’s later explorations of ethics.
+
+AFTER
+
+1992 English philosopher Simon Critchley’s Ethics of Deconstruction explores aspects of Derrida’s work.
+
+Jacques Derrida remains one of the most controversial 20th-century philosophers. His name is associated, first and foremost, with “deconstruction”, a complex and nuanced approach to how we read and understand the nature of written texts. If we are to understand what Derrida means when he says in his famous book Of Grammatology that there is nothing outside of the text (the original French is “il n’y a pas de hors-texte”, also translated as “there is no outside-text”), we need to take a closer look at Derrida’s deconstructive approach in general. Often when we pick up a book, whether a philosophy book or a novel, we imagine that what we have in our hands is something that we can understand or interpret as a relatively self-contained whole. When it comes to philosophical texts, we might be expected to imagine that these are especially systematic and logical. Imagine that you go into a bookshop and pick up a copy of Of Grammatology. You would think that, if you were to read the book, by the end of it you would have a reasonable grasp of what “grammatology” itself might be, what Derrida’s main ideas were on the subject, and what this said about the world. But, for Derrida, texts do not work in this way.
+
+"We are all mediators, translators."
+
+Jacques Derrida
+
+Aporia and différance
+
+Even the most straightforward texts (and Of Grammatology is not one such text) are riddled with what Derrida calls “aporias.” The word “aporia” comes from the Ancient Greek, where it means something like “contradiction”, “puzzle”, or “impasse.” For Derrida, all written texts have such gaps, holes, and contradictions and his method of deconstruction is a way of reading texts while looking out for these puzzles and impasses. In exploring these contradictions as they appear in different texts, Derrida aims to broaden our understanding of what texts are and what they do, and to show the complexity that lies behind even the most apparently simple works. Deconstruction is a way of reading texts to bring these hidden paradoxes and contradictions out into the open. This is not, however, just a matter of how we read philosophy and literature; there are much broader implications to Derrida’s approach that bring into question the relationship between language, thought, and even ethics.
+
+At this point, it would help to introduce an important technical term from Derrida’s vocabulary: “différance.” This may look like a typographical error—and indeed, when the term différance first entered the French dictionary, the story goes that even Derrida’s mother sternly said to him, “But Jacques, that is not how you spell it!” But in fact différance is a word that Derrida coined himself to point to a curious aspect of language.
+
+“Différance” (with an “a”) is a play both on the French “différence” (with an “e”), meaning “to differ”, and the French “deférrer” meaning “to defer.” To understand how this word works, it would be useful to consider how this deferring and differing might actually take place in practice. Let us start with deferring. Imagine that I say “The cat…”, then I add, “that my friend saw….” After a pause, I say, “in the garden was black and white…”, and so on. The precise meaning of the word “cat” as I am using it is continually deferred, or put off, as more information is given. If I had been cut off after saying “The cat…” and had not mentioned my friend or the garden, the meaning of “cat” would have been different. The more I add to what I say, in other words, the more the meaning of what I have already said is revised. Meaning is deferred in language.
+
+But there is something else going on as well. The meaning of “cat”, Derrida believes, cannot be considered as something that rests in the relationship between my words and actual things in the world. The word takes its meaning from its position in a whole system of language. So when I say “cat”, this is meaningful not because of some mysterious link between the word and an actual cat, but because this term differs from, for example, “dog” or “lion” or “zebra.”
+
+Taken together, these two ideas of deferring and differing say something quite strange about language in general. On the one hand, the meaning of anything we say is ultimately always deferred, because it depends on what else we say; and the meaning of that, in turn, depends on what else we say, and so on. And on the other hand, the meaning of any particular term we use depends on all the things that we don’t mean. So meaning is not self-contained within the text itself.
+
+A typesetter can check plates of type closely before they are printed, but the ideas they express are full of “aporias”, or contradictions, says Derrida, which no amount of analysis can eliminate.
+
+The meaning of what we write is, for Derrida, changed by what we write next. Even the deceptively simple act of writing a letter can lead to a deferral of meaning in the text itself.
+
+The written word
+
+For Derrida, différance is an aspect of language that we become aware of thanks to writing. Since ancient Greek times, philosophers have been suspicious of written language. In Plato’s dialogue, the Phaedrus, Socrates tells a legend about the invention of writing, and says that writing provides only “the appearance of wisdom” and not its reality. Writing, when philosophers have thought about it at all, has tended to be seen simply as a pale reflection of the spoken word; the latter has been taken as the primary means of communication. Derrida wants to reverse this; according to him, the written word shows us something about language that the spoken word does not.
+
+The traditional emphasis on speech as a means of transmitting philosophical ideas has fooled us all, Derrida believes, into thinking that we have immediate access to meaning. We think that meaning is about “presence”—when we speak with another person, we imagine that they make their thoughts “present” for us, and that we are doing the same for them. If there is any confusion, we ask the other person to clarify. And if there are any puzzles, or aporias, we either ask for clarification, or these simply slide past us without our noticing. This leads us to think that meaning in general is about presence—to think, for example, that the real meaning of “cat” can be found in the presence of a cat on my lap.
+
+But when we deal with a written text, we are freed from this naïve belief in presence. Without the author there to make their excuses and explain for us, we start to notice the complexities and the puzzles and the impasses. All of a sudden, language begins to look a little more complicated.
+
+"We think only in signs."
+
+Jacques Derrida
+
+Questioning meaning
+
+When Derrida says that there is nothing outside of the text, he does not mean that all that matters is the world of books, that somehow the world “of flesh and bone” does not matter. Nor is he trying to play down the importance of any social concerns that might lie behind the text. So what exactly is he saying?
+
+First, Derrida is suggesting that if we take seriously the idea that meaning is a matter of différance, of differing and of deferring, then if we want to engage with the question of how we ought think about the world, we must always keep alive to the fact that meaning is never as straightforward as we think it is, and that this meaning is always open to being examined by deconstruction.
+
+Second, Derrida is suggesting that in our thinking, our writing, and our speaking, we are always implicated in all manner of political, historical, and ethical questions that we may not even recognize or acknowledge. For this reason, some philosophers have suggested that deconstruction is essentially an ethical practice. In reading a text deconstructively, we call into question the claims that it is making, and we open up difficult ethical issues that may have remained hidden. Certainly in his later life, Derrida turned his attention to some of the very real ethical puzzles and contradictions that are raised by ideas such as “hospitality” and “forgiveness.”
+
+Derrida’s own thesis that there is nothing outside of the text is open to be analyzed using his own deconstructive methods. Even the idea as explained in this book is subject to différance.
+
+Derrida registered his opposition to the Vietnam War in a lecture given in the US in 1968. His involvement in numerous political issues and debates informed much of his later work.
+
+Critics of Derrida
+
+Given that Derrida’s idea is based on the notion that meaning can never be completely present in the text, it is perhaps not surprising that Derrida’s work can often be difficult. Michel Foucault, one of Derrida’s contemporaries, attacked Derrida’s thinking for being wilfully obscure; he protested that often it was impossible to say exactly what Derrida’s thesis actually was. The latter’s response to this, perhaps, might be to say that the idea of having a thesis is itself based on the idea of “presence” that he is attempting to call into question. This may seem like dodging the issue; but if we take Derrida’s idea seriously, then we have to admit that the idea that there is nothing outside of the text is itself not outside of the text. To take this idea seriously, then, is to treat it sceptically, to deconstruct it, and to explore the puzzles, impasses, and contradictions that—according to Derrida himself—lurk within it.
+
+"I never give in to the temptation to be difficult just for the sake of being difficult."
+
+Jacques Derrida
+
+JACQUES DERRIDA
+
+Jacques Derrida was born to Jewish parents in the then French colony of Algeria. He was interested in philosophy from an early age, but also nurtured dreams of becoming a professional soccer player. Eventually it was philosophy that won out and, in 1951, he entered the École Normale Supérieure in Paris. There he formed a friendship with Louis Althusser, also of Algerian origin, who, like Derrida, went on to become one of the most prominent thinkers of his day.
+
+The publication in 1967 of Of Grammatology, Writing and Difference, and Speech and Phenomena sealed Derrida’s international reputation. A regular visiting lecturer at a number of European and American universities, he took up the post of Professor of Humanities at the University of California, Irvine, in 1986. His later work increasingly focused on issues of ethics, partly due to the influence of Emmanuel Levinas.
+
+Key works
+
+1967 Of Grammatology
+
+1967 Writing and Difference
+
+1967 Speech and Phenomena
+
+1994 The Politics of Friendship
+
+See also: Plato • Charles Sanders Peirce • Ferdinand de Saussure • Emmanuel Levinas • Louis Althusser • René Girard • Michel Foucault

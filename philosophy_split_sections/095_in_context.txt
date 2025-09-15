@@ -1,0 +1,59 @@
+IN CONTEXT
+
+BRANCH
+
+Epistemology
+
+APPROACH
+
+Discursive archaeology
+
+BEFORE
+
+Late 18th century Immanuel Kant lays the foundation for the 19th-century model of “man.”
+
+1859 Charles Darwin’s On the Origin of Species causes a revolution in how we understand ourselves.
+
+1883 Friedrich Nietzsche, in Thus Spoke Zarathustra, announces that man is something to be surpassed.
+
+AFTER
+
+1985 American philosopher Donna Haraway’s A Cyborg Manifesto attempts to imagine a post-human future.
+
+1991 Daniel Dennett’s Consciousness Explained calls into question many of our most cherished notions about consciousness.
+
+The idea that man is an invention of recent date appears in The Order of Things: An Archaeology of the Human Sciences by French philosopher Michel Foucault. To understand what Foucault means by this, we need to know what he means by archaeology, and why he thinks that we should apply it to the history of thought.
+
+Foucault is interested in how our discourse—the way in which we talk and think about things—is formed by a set of largely unconscious rules that arise out of the historical conditions in which we find ourselves. What we take to be the “common sense” background to how we think and talk about the world is in fact shaped by these rules and these conditions. However, the rules and conditions change over time, and consequently so do our discourses. For this reason, an “archaeology” is needed to unearth both the limits and the conditions of how people thought and talked about the world in previous ages. We cannot take concepts that we use in our present context (for example, the concept of “human nature”) and assume that they are somehow eternal, and that all we need is a “history of ideas” to trace their genealogy. For Foucault, it is simply wrong to assume that our current ideas can be usefully applied to any previous point in history. The ways in which we use the words “man”, “mankind”, and “human nature”, Foucault believes, are examples of this.
+
+The roots of this idea lie firmly in the philosophy of Immanuel Kant, who turned philosophy on its head by abandoning the old question “Why is the world the way it is?” and asking “Why do we see the world the way we do?” We take our idea of what it is to be human as fundamental and unchanging, but it is in fact only a recent invention. Foucault locates the beginning of our particular idea of “man” at the beginning of the 19th century, around the time of the birth of the natural sciences. This idea of “man” is, Foucault considers, paradoxical: we see ourselves both as objects in the world, and so as objects of study, and as subjects who experience and study the world—strange creatures that look in two directions at once.
+
+The human self-image
+
+Foucault suggests that not only is this idea of “man” an invention of recent date, it is also an invention that may be close to coming to its end—one that may soon be erased “like a face drawn in the sand at the edge of the sea.”
+
+Is Foucault right? In a time of rapid advances in computing and human-machine interfaces, and when philosophers informed by cognitive science, such as Daniel Dennett and Dan Wegner, are questioning the very nature of subjectivity, it is hard not to feel that, even if the face in the sand is not about to be erased, the tide is lapping alarmingly at its edges.
+
+"Man is neither the oldest nor the most constant problem that has been posed for human knowledge."
+
+Michel Foucault
+
+The 19th century saw a revolution in anatomy, as shown in this illustration from a medical text book. Foucault believes that our modern concept of man dates from this period.
+
+MICHEL FOUCAULT
+
+Foucault was born in Poitiers, France, in 1926 to a family of doctors. After World War II, he entered the École Normale Supérieure, where he studied philosophy under Maurice Merleau-Ponty. In 1954 he spent time in Uppsala, Sweden, and then lived for a time both in Poland and Germany, only returning to France in 1960.
+
+He received a PhD in 1961 for his study A History of Madness, which argued that the distinction between madness and sanity is not real, but a social construct. After the month-long student strikes in Paris of 1968, he became involved in political activism, and continued to work both as a lecturer and an activist for the rest of his life.
+
+Key works
+
+1961 A History of Madness
+
+1963 The Birth of the Clinic: An Archaeology of Medical Perception
+
+1966 The Order of Things: An Archaeology of the Human Sciences
+
+1975 Discipline and Punish: The Birth of the Prison
+
+See also: Immanuel Kant • Friedrich Nietzsche • Martin Heidegger • Maurice Merleau-Ponty • Daniel Dennett

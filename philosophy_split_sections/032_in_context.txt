@@ -1,0 +1,75 @@
+IN CONTEXT
+
+BRANCH
+
+Metaphysics
+
+APPROACH
+
+Epistemology
+
+BEFORE
+
+c.1190 Jewish philosopher Moses Maimonides invents a demythologized version of religion which later inspires Spinoza.
+
+16th century Italian scientist Giordano Bruno develops a form of pantheism.
+
+1641 René Descartes publishes his Meditations, another of Spinoza’s influences.
+
+AFTER
+
+Late 20th century Philosophers Stuart Hampshire, Donald Davidson, and Thomas Nagel all develop approaches to the philosophy of mind that have similarities to Spinoza’s monist thought.
+
+Like most philosophies of the 17th century, Spinoza’s philosophical system has the notion of “substance” at its heart. This concept can be traced back to Aristotle, who asked “What is it about an object that stays the same when it undergoes change?” Wax, for example, can melt and change its shape, size, color, smell, and texture, and yet still remain “wax”, prompting the question: what are we referring to when we speak of “the wax”? Since it can change in every way that we can perceive, the wax must also be something beyond its perceptible properties, and for Aristotle this unchanging thing is the wax’s “substance.” More generally, substance is anything that has properties—or that which underlies the world of appearance.
+
+Spinoza employs “substance” in a similar way, defining it as that which is self-explanatory—or that which can be understood by knowing its nature alone, as opposed to all other things that can be known only by their relationships with other things. For example, the concept “cart” can only be understood with reference to other concepts, such as “motion”, “transport”, and so on. Moreover, for Spinoza, there can only be one such substance, for if there were two, understanding one would entail understanding its relationship with the other, which contradicts the definition of substance. Furthermore, he argues, since there is only one such substance, there can, in fact, be nothing but that substance, and everything else is in some sense a part of it. Spinoza’s position is known as “substance monism”, which claims that all things are ultimately aspects of a single thing, as opposed to “substance dualism”, which claims that there are ultimately two kinds of things in the universe, most commonly defined as “mind” and “matter.”
+
+Substance as God or nature
+
+For Spinoza, then, substance underlies our experience, but it can also be known by its various attributes. He does not specify how many attributes substance has, but he says that human beings, at least, can conceive of two—namely, the attribute of extension (physicality) and the attribute of thought (mentality). For this reason, Spinoza is also known as an “attribute dualist”, and he claims that these two attributes cannot be explained by each other, and so must be included in any complete account of the world. As for substance itself, Spinoza says that we are right to call it “God” or “nature” (Deus sive natura)—that self-explaining thing which, in human form, sees itself under the attributes of body and mind.
+
+At the level of individual things, including human beings, Spinoza’s attribute dualism is intended in part to deal with the question of how minds and bodies interact. The things that we experience as individual bodies or minds are in fact modifications of the single substance as conceived under one of the attributes. Each modification is both a physical thing (in so far as it is conceived under the attribute of extension) and a mental thing (in so far as it is conceived under the attribute of thought). In particular, a human mind is a modification of substance conceived under the attribute of thought, and the human brain is the same modification of substance conceived under the attribute of extension. In this way, Spinoza avoids any question about the interaction between mind and body: there is no interaction, only a one-to-one correspondence.
+
+However, Spinoza’s theory commits him to the view that it is not only human beings that are minds as well as bodies, but everything else too. Tables, rocks, trees—all of these are modifications of the one substance under the attributes of thought and extension. So, they are all both physical and mental things, although their mentality is very simple and they are not what we should call minds. This aspect of Spinoza’s theory is difficult for many people either to accept or to understand.
+
+All changes, from a change of mood to a change in a candle’s shape, are, for Spinoza, alterations that occur to a single substance that has both mental and physical attributes.
+
+The world is God
+
+Spinoza’s theory, which he explains fully in Ethics, is often referred to as a form of pantheism—the belief that God is the world, and that the world is God. Pantheism is often criticized by theists (people who believe in God), who argue that it is little more than atheism by another name. However, Spinoza’s theory is in fact much closer to panentheism—the view that the world is God, but that God is more than the world. For in Spinoza’s system, the world is not a mass of material and mental stuff—rather, the world of material things is a form of God as conceived under the attribute of extension, and the world of mental things is that same form of God as conceived under the attribute of thought. Therefore the one substance or God is more than the world, but the world itself is entirely substance or God.
+
+However, Spinoza’s God is clearly different from the God of standard Judaeo-Christian theology. Not only is it not a person, it cannot be regarded as being the creator of the world in the sense found in the Book of Genesis. Spinoza’s God does not exist alone before creation, and then bring it into existence.
+
+"Mind and body are one."
+
+Benedictus Spinoza
+
+God as the cause
+
+What can Spinoza mean, then, when he says that God is the cause of everything? The one substance is “God or nature”—so even if there is more to God than those modifications of substance that make up our world, how can the relationship between God and nature be causal?
+
+First, we should note that Spinoza, in common with most philosophers before him, uses the word “cause” in a much richer sense than we do now—a sense that originates in Aristotle’s definition of four types of cause. These are (using a statue as an example): a formal cause, or the relationship between a thing’s parts (its shape or form); a material cause, or the matter a thing is made of (the bronze, marble, and so on); an efficient cause, or that which brings a thing into being (the sculpting process); and a final cause, or the purpose for which a thing exists (the creation of a work of art, the desire for money, and so on).
+
+For Aristotle and Spinoza, these together define “cause”, and provide a complete explanation of a thing—unlike today’s usage, which tends to relate to the “efficient” or “final” causes only. Therefore, when Spinoza speaks of God or substance being “self-caused” he means that it is self-explanatory, rather than that it is simply self-generating. When he talks of God being the cause of all things, he means that all things find their explanation in God.
+
+God, therefore, is not what Spinoza calls a “transitive” cause of the world—something external that brings the world into being. Rather, God is the “immanent” cause of the world. This means that God is in the world, that the world is in God, and that the existence and essence of the world are explained by God’s existence and essence. For Spinoza, to fully appreciate this fact is to attain the highest state of freedom and salvation possible—a state he calls “blessedness.”
+
+"The human mind is part of the infinite intellect of God."
+
+Benedictus Spinoza
+
+According to Spinoza, all objects, whether animal, vegetable, or mineral, have a mentality. Both their bodies and their mentalities are a part of God, who is greater than all the world’s physical and mental attributes. God, for Spinoza, is the “substance” that underlies reality.
+
+BENEDICTUS SPINOZA
+
+Benedictus (or Baruch) Spinoza was born in Amsterdam, the Netherlands, in 1632. At the age of 23 he was excommunicated by the synagogue of Portuguese Jews in Amsterdam, who probably wished to distance themselves from Spinoza’s teachings. Spinoza’s Theological-Political Treatise was later attacked by Christian theologians and banned in 1674—a fate that had already befallen the work of the French philosopher René Descartes. The furore caused him to withhold publication of his greatest work, the Ethics, until after his death.
+
+Spinoza was a modest, intensely moral man who turned down numerous lucrative teaching positions for the sake of his intellectual freedom. Instead he lived a frugal life in various places in the Netherlands, making a living by private philosophy teaching and as a lens grinder. He died from tuberculosis in 1677.
+
+Key works
+
+1670 Theological-Political Treatise
+
+1677 Ethics
+
+See also: Aristotle • Moses Maimonides • René Descartes • Donald Davidson

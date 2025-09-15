@@ -1,0 +1,70 @@
+# Philosophy of history
+
+## Naturalism
+
+BEFORE
+
+55 BCE Lucretius, a Roman poet, explores the origins of societies and civilizations.
+
+1730s The Italian philosopher Giovanni Vico claims that all civilizations pass through three stages: the age of the gods; the age of artistocrats and heroes; and democracy. This is due to “an uninterrupted order of causes and effects.”
+
+1807–22 Georg Hegel writes of history as the continual progress of mind or spirit.
+
+AFTER
+
+2004 In his book, Memory, History, Forgetting, French philosopher Paul Ricoeur explores the necessity not only of remembering, but also of forgetting the past.
+
+In The Life of Reason (1905), the Spanish-American philosopher George Santayana wrote that those who cannot remember the past are condemned to repeat it. Santayana’s naturalistic approach means that he sees knowledge and belief as arising not from reasoning, but through interaction between our minds and the material environment. Santayana is often misquoted as saying that those who do not remember the past are condemned to repeat it, and this is sometimes understood to mean that we must do our best to remember past atrocities. But Santayana is actually making a point about progress. For progress to be possible, we must not only remember past experiences, but also be able to learn from them; to see different ways of doing things. The psyche structures new beliefs through experiences, and this is how we prevent ourselves from repeating mistakes.
+
+Real progress, Santayana believes, is not so much a matter of revolution as of adaptation, taking what we have learned from the past and using it to build the future. Civilization is cumulative, always building on what has gone before, in the same way that a symphony builds note by note into a whole.
+
+Progress is only possible through an understanding of the past coupled with a sense of possible alternatives. The AT&T Building, New York, uses old architectural patterns in new ways.
+
+## Hermeneutics
+
+BEFORE
+
+Early 19th century German philosopher Friedrich Schleiermacher lays the groundwork for hermeneutics.
+
+1890s Wilhelm Dilthey, a German philosopher, describes interpretation as taking place in the “hermeneutic circle.”
+
+1927 Martin Heidegger explores the interpretation of being, in Being and Time.
+
+AFTER
+
+1979 Richard Rorty uses a hermeneutic approach in his book Philosophy and the Mirror of Nature.
+
+1983–85 French philosopher Paul Ricoeur writes Time and Narrative, examining the capacity of narrative to represent our feeling of time.
+
+Gadamer is associated in particular with one form of philosophy: “hermeneutics.” Derived from the Greek word hermeneuo, meaning “interpret”, this is the study of how humans interpret the world.
+
+Gadamer studied philosophy under Martin Heidegger, who said that the task of philosophy is to interpret our existence. This interpretation is always a process of deepening our understanding by starting from what we already know. The process is similar to how we might interpret a poem. We start by reading it carefully in the light of our present understanding. If we come to a line that seems strange or particularly striking, we might need to reach for a deeper level of understanding. As we interpret individual lines, our sense of the poem as a whole might begin to change; and as our sense of the poem as a whole changes, so might our understanding of individual lines. This is known as the “hermeneutic circle.”
+
+Heidegger’s approach to philosophy moved in this circular fashion, and this was the approach that Gadamer later explored in his book Truth and Method. Gadamer goes on to point out that our understanding is always from the point of view of a particular point in history. Our prejudices and beliefs, the kinds of questions that we think are worth asking, and the kinds of answers with which we are satisfied are all the product of our history. We cannot stand outside of history and culture, so we can never reach an absolutely objective perspective.
+
+But these prejudices should not be seen as a bad thing. They are, after all, our starting point, and our current understanding and sense of meaning are based upon these prejudices and biases. Even if it were possible to get rid of all our prejudices, we would not find that we would then see things clearly. Without any given framework for interpretation, we would not be able to see anything at all.
+
+When viewing historical objects we should not view time as a gulf to be bridged, says Gadamer. Its distance is filled with the continuity of tradition, which sheds light on our understanding.
+
+Conversing with history
+
+Gadamer sees the process of understanding our lives and our selves as similar to having a “conversation with history.” As we read historical texts that have existed for centuries, the differences in their traditions and assumptions reveal our own cultural norms and prejudices, leading us to broaden and deepen our understanding of our own lives in the present. For instance, if I pick up a book by Plato, and read it carefully, I might find not only that I am deepening my understanding of Plato, but also that my own prejudices and biases become clear, and perhaps begin to shift. Not only am I reading Plato, but Plato is reading me. Through this dialogue, or what Gadamer calls “the fusion of horizons”, my understanding of the world reaches a deeper, richer level.
+
+"Because an experience is itself within the whole of life, the whole of life is present in it too."
+
+Hans-Georg Gadamer
+
+HANS-GEORG GADAMER
+
+Gadamer was born in Marburg in 1900, but grew up in Breslau, Germany (now Wroclaw, Poland). He studied philosophy first in Breslau and then in Marburg, where he wrote a second doctoral dissertation under the tutelage of the philosopher Martin Heidegger, who was an enormous influence on his work. He became an associate professor at Marburg, beginning a long academic career which eventually included succeeding the philosopher Karl Jaspers as Professor of Philosophy in Heidelberg in 1949. His most important book, Truth and Method, was published when he was 60. It attacked the idea that science offered the only route to truth and its publication brought him wider international fame. A sociable and lively man, Gadamer remained active right up until his death in Heidelberg at the age of 102.
+
+Key works
+
+1960 Truth and Method
+
+1976 Philosophical Hermeneutics
+
+1980 Dialogue and Dialectic
+
+1981 Reason in the Age of Science
+

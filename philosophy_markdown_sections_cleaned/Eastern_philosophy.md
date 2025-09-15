@@ -1,0 +1,6 @@
+# Eastern philosophy
+
+## Buddhism
+
+
+

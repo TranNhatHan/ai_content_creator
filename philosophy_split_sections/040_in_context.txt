@@ -1,0 +1,131 @@
+IN CONTEXT
+
+BRANCH
+
+Metaphysics
+
+APPROACH
+
+Transcendental idealism
+
+BEFORE
+
+1641 René Descartes publishes his Meditations, in which he doubts all knowledge apart from the knowledge of his own consciousness.
+
+1739 David Hume publishes his Treatise of Human Nature, which suggests limitations on how the human mind perceives reality.
+
+AFTER
+
+19th century The German idealist movement develops in response to Kant’s philosophy.
+
+1900s Edmund Husserl develops phenomenology, the study of objects of experience, using Kant’s understanding of consciousness.
+
+Immanuel Kant thought it was “scandalous” that in more than 2,000 years of philosophical thought, nobody had been able to produce an argument to prove that there really is a world out there, external to us. He particularly had in mind the theories of René Descartes and George Berkeley, who both entertained doubts about the existence of an external world.
+
+At the start of his Meditations, Descartes argued that we must doubt all knowledge except that of our own existence as thinking beings—even the knowledge that there is an external world. He then went on to counter this sceptical point of view with an argument that claims to prove the existence of God, and therefore the reality of an outside world. However, many philosophers (including Kant) have not found Descartes’ proof of God to be valid in its reasoning.
+
+Berkeley, on the other hand, argued that knowledge is indeed possible—but that it comes from experiences our consciousness perceives. We have no justification for believing that these experiences have any external existence outside our own minds.
+
+Time and consciousness
+
+Kant wants to demonstrate that there is an external, material world, and that its existence cannot be doubted. His argument begins as follows: in order for something to exist, it must be determinable in time—that is, we must be able to say when it exists and for how long. But how does this work in the case of my own consciousness?
+
+Although consciousness seems to be constantly changing with a continuous flow of sensations and thoughts, we can use the word “now” to refer to what is currently happening in our consciousness. But “now” is not a determinate time or date. Every time I say “now”, consciousness is different.
+
+Here lies the problem: what makes it possible to specify the “when” of my own existence? We cannot experience time itself, directly; rather, we experience time through things that move, change, or stay the same. Consider the hands of a clock, constantly moving slowly around. The moving hands are useless for determining time on their own—they need something against which they change, such as the numbers on a clock face. Every resource I have for measuring my constantly changing “now” is found in material objects outside me in space (including my own physical body). Saying that I exist requires a determinate point in time, and this, in turn, requires an actually existing outside world in which time takes place. My level of certainty about the existence of the external world is thus precisely the same as my level of certainty about the existence of consciousness, which Descartes believed was absolutely certain.
+
+According to Kant, we can only experience time through things in the world that move or change, such as the hands of a clock. So time is only ever experienced by us indirectly.
+
+The problem of science
+
+Kant also looked at how science understood the exterior world. He admired the awesome progress that the natural sciences had made over the previous two centuries, compared with the relative stagnation in the subject from ancient times until that point. Kant, along with other philosophers, wondered what was suddenly being done correctly in scientific research. The answer given by many thinkers of the period was empiricism. The empiricists, such as John Locke and David Hume, argued that there is no knowledge except that which comes to us through our experience of the world. They opposed the views of rationalist philosophers, such as Descartes or Gottfried Leibniz, who argued that the mind’s ability to reason and deal with concepts is more important for knowledge than experience.
+
+The empiricists claimed that the recent success of science was due to scientists being much more careful in their observations of the world than they had been previously, and making fewer unjustified assumptions based on reason alone. Kant argues that although this is no doubt partly true, it could not be the whole answer, as it is simply false to say that there was no detailed and careful empirical observation in science before the 16th century.
+
+The real issue, Kant argues, is that a new scientific method arose that made empirical observations valuable. This method involves two elements. First, it asserts that concepts such as force or movement can be perfectly described by mathematics. Second, it tests its own conceptions of the world by asking specific questions about nature and observing the answers. For example, the experimental physicist Galileo Galilei wanted to test the hypothesis that two things of different weights will nevertheless fall through the air at the same rate. He designed an experiment to test this in such a way that the only possible explanation of the observed result would be the truth or falsity of the hypothesis.
+
+Kant identifies the nature and importance of the scientific method. He believes that this method had put physics and other subjects on the “secure road of a science.” However, his investigations do not stop there. His next question is: “Why is our experience of the world such that the scientific method works?” In other words, why is our experience of the world always mathematical in nature, and how is it always possible for human reason to put questions to nature?
+
+"It is precisely in knowing its limits that philosophy exists."
+
+Immanuel Kant
+
+Intuitions and concepts
+
+In his most famous work, Critique of Pure Reason, Kant argues that our experience of the world involves two elements. The first is what he calls “sensibility”—our ability to be directly acquainted with particular things in space and time, such as this book you are reading now. These direct acquaintances he calls “intuitions.” Second is what Kant calls the “understanding”, our ability to have and use concepts. For Kant, a concept is an indirect acquaintance with things as examples of a type of thing, such as the concept of “book” in general. Without concepts we would not know our intuition was of a book; without intuitions we would never know that there were books at all.
+
+Each of these elements has, in turn, two sides. In sensibility, there is my intuition of a particular thing in space and time (like the book) and my intuition of space and time as such (my acquaintance with what space and time are like in general). In understanding, there is my concept of some type of thing (books) and my concept of a “thing” as such (substance). A concept such as substance defines what it means to be a thing in general rather than defining some type of thing like a book. My intuition of a book and the concept of a book are empirical, for how could I know anything about books unless I had come across them in the world? But my intuition of space and time and the concept of substance are a priori, meaning that they are known before or independently of any experience.
+
+A true empiricist would argue against Kant that all acquaintances come from experience—in other words, nothing is a priori. They might say that we learn what space is by observing things in space; and we learn what substance is from our observation that the features of things change without the underlying thing itself changing. For instance, though a tree’s leaves turn from green to brown, and eventually fall from the tree, it is still the same tree.
+
+"Thoughts without content are empty; intuitions without concepts are blind… only from their union can cognition arise."
+
+Immanuel Kant
+
+Kant split knowledge into intuitions, gained from direct sensibility of the world, and concepts, which come indirectly from our understanding. Some of our knowledge—both of sensibility and understanding—comes from empirical evidence, while some is known a priori.
+
+Our understanding that entities such as trees undergo change presupposes an a priori grasp of the concept “substance”, according to Kant. Such concepts are the preconditions of our experience.
+
+Space and substance
+
+Kant’s arguments show that, on the contrary, space is an a priori intuition. In order to learn about things outside of me, I need to know that they are outside of me. But that shows that I could not learn about space in this way: how can I locate something outside of me without already knowing what “outside of me” means? Some knowledge of space has to be assumed before I can ever study space empirically. We must be familiar with space a priori.
+
+This argument has an extraordinary consequence. Because space itself is a priori, it does not belong to things in the world. But our experience of things in space is a feature of our sensibility. A thing-in-itself—Kant’s term for a thing that is considered separately from sensibility, and therefore exterior to our minds—may have nothing to do with space. Kant used similar arguments to prove the same thing of time.
+
+Kant then turns to proving the existence of a priori concepts, such as substance. He asks us first to distinguish between two types of alteration: variation and change. Variation concerns the properties that things have: for instance, a tree’s leaves may be green or brown. Change is what the tree does: the same tree changes its leaves from green to brown. To make this distinction is already to use the notion of substance: the tree (as substance) changes, but the leaves (as the properties of substance) vary. If we do not accept this distinction, then we cannot accept the validity of the concept of substance. We would be saying that any time there is alteration, something “pops” into or out of existence; the tree with green leaves is annihilated at the same time that the tree with brown leaves begins to exist from nothing.
+
+Kant needs to prove that such a view is impossible. The key to this is time determination. Time cannot be directly experienced (it is not a thing); rather, we experience time through things that alter or do not alter, as Kant has already shown. If we experienced time through the tree with green leaves and also experienced time through the tree with brown leaves without there being any connection between the two, then we would be experiencing two separate real times. Since this is absurd, Kant believes he has demonstrated that the concept of substance is absolutely essential before we can gain any experience of the world. And, since it is through that experience that we learn anything empirical, the concept of substance could not be empirical: it is rather a priori.
+
+"Only from the human standpoint can we speak of space."
+
+Immanuel Kant
+
+The limits of knowledge
+
+A philosophical position that asserts that some state or activity of the mind is prior to and more fundamental than things we experience is called idealism, and Kant calls his own position “transcendental idealism.” He insists that space, time, and certain concepts are features of the world we experience (what Kant called the phenomenal world) rather than features of the world itself considered separately from experience (what Kant called the noumenal world).
+
+Kant’s claims about a priori knowledge have both positive and negative consequences. The positive consequence is that the a priori nature of space, time, and certain concepts is what makes our experience of the world possible and reliable. Space and time make our experience mathematical in nature; we can measure it against known values. A priori concepts such as substance make it possible to address questions about nature such as “Is that a substance?” and “What properties does it exhibit and according to what laws?” In other words, Kant’s transcendental idealism is what makes it possible for our experience to be considered useful to science.
+
+On the negative side, certain types of thinking call themselves science and even resemble science, but fail utterly. This is because they apply to things-in-themselves intuitions about space and time, or concepts such as substance—which according to Kant must be valid for experience, but have no validity with respect to things-in-themselves. Because they resemble science, these types of thinking are a constant temptation to us, and are a trap that many fall into without realizing it. For example, we might wish to claim that God is the cause of the world, but cause and effect is another of the a priori concepts, like substance, that Kant believes is entirely valid for our experienced world, but not for things-in-themselves. So the existence of God (considered, as it usually is, as a being independent of the experienced world) is not something that could be known. The negative consequence of Kant's philosophy, then, is to place quite severe restrictions on the limits of knowledge.
+
+Transcendental idealism gives us a much more radical way of understanding the distinction between ourselves and the external world. What is external to me is interpreted as not just external to me in space, but external to space itself (and to time, and to all the a priori concepts that make my experience of the world possible). And there are two worlds: the “world” of experience, which includes both my thoughts and feelings, and also includes experience of material things such as my body, or books; and the “world” of things-in-themselves, which is precisely not experienced and so not in any sense known, and which we must constantly strive to avoid fooling ourselves about.
+
+Our bodies have a curious role to play in all this. On the one hand, my body as a material thing is a part of the external world. On the other hand, the body is a part of us, and indeed is the medium through which we encounter other things (using our skin, nerves, eyes, ears, and so on). This provides us with one way of understanding the distinction between bodies and the external world: the body as the medium of my sensations is different from other external and material things.
+
+The Flammarion woodcut depicts a man looking outside of space and time. For Kant, what is external to us is external to space and time also, and can never be known as a thing-in-itself.
+
+"Human reason is troubled by questions that it cannot dismiss, but also cannot answer."
+
+Immanuel Kant
+
+Lasting influence
+
+Kant’s book Critique of Pure Reason is arguably the most significant single work in the history of modern philosophy. Indeed, the whole subject of philosophy is often divided by many modern thinkers into everything that happened before Kant, and everything that has happened since.
+
+Before Kant, empiricists such as John Locke emphasized what Kant termed sensibility, but rationalists such as Descartes tended to emphasize understanding. Kant argues that our experience of the world always involves both, so it is frequently said that Kant combined rationalism and empiricism.
+
+After Kant, German philosophy in particular progressed rapidly. The idealists Johann Fichte, Friedrich Schelling, and Georg Hegel all took Kant’s thought in new directions and, in their turn, influenced the whole of 19th-century thought, from romanticism to Marxism. Kant's sophisticated critique of metaphysical thought was also important in positivism, which held that every justifiable assertion is capable of being scientifically or logically verified.
+
+The fact that Kant locates the a priori even within our intuitions of the world was important for 20th-century phenomenologists such as Edmund Husserl and Martin Heidegger, who sought to examine objects of experience independently of any assumptions we may have about them. Kant’s work also remains an important reference point for contemporary philosophers today, especially in the branches of metaphysics and epistemology.
+
+"Reason only has insight into that which it produces after a plan of its own."
+
+Immanuel Kant
+
+IMMANUEL KANT
+
+Immanuel Kant was born into a family of financially struggling artisans in 1724, and he lived and worked his whole life in the cosmopolitan Baltic port city of Konigsberg, then part of Prussia. Though he never left his native province, he became an internationally famous philosopher within his own lifetime.
+
+Kant studied philosophy, physics, and mathematics at the University of Konigsberg, and taught at the same institution for the next 27 years. In 1792 his unorthodox views led King Friedrich Wilhelm II to ban him from teaching, to which he returned after the king’s death five years later. Kant published throughout his career, but is best known for the series of ground-breaking works he produced in his 50s and 60s. Though a bright and sociable man, he never married, and died at the age of 80.
+
+Key works
+
+1781 Critique of Pure Reason
+
+1785 Foundations of the Metaphysics of Morals
+
+1788 Critique of Practical Reason
+
+1790 Critique of Judgement
+
+See also: René Descartes • John Locke • George Berkeley • David Hume • Johann Gottlieb Fichte • Georg Hegel • Friedrich Schelling • Arthur Schopenhauer
