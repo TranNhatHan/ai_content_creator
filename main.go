@@ -82,7 +82,7 @@ func main() {
 	// }
 	// store.AddDocuments(ctx, docs)
 
-	query := "Thoughts of Plato, Saussure and Saussure about Semiotics"
+	query := "Major branches of philosophy"
 	results, err := store.SimilaritySearch(ctx, query, 30, vectorstores.WithScoreThreshold(0.85))
 	if err != nil {
 		log.Fatal(err)
@@ -118,7 +118,7 @@ func postOntoFacebookPage(content string) {
 
 	data := map[string]string{
 		"message":      content,
-		"access_token": "EAALB93J4c70BPfHSZByno9bpDVUiCLDFXM0L2T5QWTszniQPbWqt4Gch8JRGmh5pCK4sOhpj9ZA9ZAhDMkA7zcZCCBzkCwLGYhmiWUJ3CSyhoHO7GIJde12VcwYP70aZCtlnyL3xjvaKFqpAxtx1ZCZB0siB84pf3ZB0ArXJVBARpDKZCE9iu94bdk5eKKAp51MlITXPf",
+		"access_token": os.Getenv("FACEBOOK_PAGE_ACCESS_TOKEN"),
 	}
 
 	jsonData, err := json.Marshal(data)
