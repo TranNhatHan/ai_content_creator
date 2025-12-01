@@ -20,6 +20,7 @@ import (
 )
 
 func main() {
+	fmt.Println("Hello")
 	ctx := context.Background()
 	topic := "The rise of AI"
 
