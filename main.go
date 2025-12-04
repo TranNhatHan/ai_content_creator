@@ -20,7 +20,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello")
 	ctx := context.Background()
 	topic := "The rise of AI"
 
@@ -57,7 +56,6 @@ func main() {
 		log.Fatal(err)
 	}
 
-	// ✅ Tools using map[string]any for Parameters (not json.RawMessage)
 	tools := []llms.Tool{
 		{
 			Type: "function",
@@ -113,10 +111,10 @@ func main() {
 	}
 
 	task := fmt.Sprintf(`You are a Vietnamese social media writer.
-Your goal: Write an engaging Facebook post about "%s".
-You can use tools to gather and post information.
-If there's not enough info in Milvus, call "crawlTopic".
-After generating the post, call "postToFacebook".`, topic)
+	Your goal: Write an engaging Facebook post about "%s".
+	You can use tools to gather and post information.
+	If there's not enough info in Milvus, call "crawlTopic".
+	After generating the post, call "postToFacebook".`, topic)
 
 	messageHistory := []llms.MessageContent{
 		llms.TextParts(llms.ChatMessageTypeSystem, "You are an autonomous assistant that can call tools."),
