@@ -1,232 +1,288 @@
 package main
 
 import (
+	"bufio"
+	"bytes"
 	"context"
 	"encoding/json"
 	"fmt"
+	"io"
 	"log"
+	"net/http"
+	"net/url"
 	"os"
 	"strings"
 	"time"
 
-	"github.com/milvus-io/milvus-sdk-go/v2/client"
-	"github.com/milvus-io/milvus-sdk-go/v2/entity"
+	"github.com/PuerkitoBio/goquery"
+
+	"github.com/milvus-io/milvus/client/v2/entity"
+	"github.com/milvus-io/milvus/client/v2/index"
+	"github.com/milvus-io/milvus/client/v2/milvusclient"
+
 	"github.com/tmc/langchaingo/embeddings"
 	"github.com/tmc/langchaingo/llms"
 	"github.com/tmc/langchaingo/llms/googleai"
 	"github.com/tmc/langchaingo/schema"
 	"github.com/tmc/langchaingo/vectorstores"
-	"github.com/tmc/langchaingo/vectorstores/milvus"
+	milvus "github.com/tmc/langchaingo/vectorstores/milvus/v2"
+	"github.com/tmc/langchaingo/textsplitter"
 )
+
+const (
+	cseIDEnv = "GOOGLE_CSE_ID"
+	apiKeyEnv = "GOOGLE_API_KEY"
+)
+
+type SearchResponse struct {
+	Items []struct {
+		Title   string `json:"title"`
+		Link    string `json:"link"`
+		Snippet string `json:"snippet"`
+	} `json:"items"`
+}
 
 func main() {
 	ctx := context.Background()
-	topic := "The rise of AI"
+	topic := "Go and Python which programming language is better"
 
-	llm, err := googleai.New(ctx, googleai.WithAPIKey(os.Getenv("GEMINI_API_KEY")))
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	embedLLM, err := googleai.New(ctx,
+	llm, err := googleai.New(
+		ctx,
 		googleai.WithAPIKey(os.Getenv("GEMINI_API_KEY")),
-		googleai.WithDefaultEmbeddingModel("gemini-embedding-001"),
+				 googleai.WithDefaultEmbeddingModel("gemini-embedding-001"),
 	)
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	embedder, err := embeddings.NewEmbedder(embedLLM)
+	embedder, err := embeddings.NewEmbedder(llm)
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	index, _ := entity.NewIndexAUTOINDEX(entity.L2)
+	config := milvusclient.ClientConfig{
+		Address: os.Getenv("MILVUS_URL"),
+		APIKey:  os.Getenv("MILVUS_API_KEY"),
+	}
+
+	idx := index.NewAutoIndex(entity.L2)
+
 	store, err := milvus.New(
 		ctx,
-		client.Config{
-			Address: os.Getenv("MILVUS_URL"),
-			APIKey:  os.Getenv("MILVUS_API_KEY"),
-		},
-		milvus.WithCollectionName("web_docs"),
-		milvus.WithIndex(index),
+		config,
 		milvus.WithEmbedder(embedder),
+				 milvus.WithCollectionName("web_docs"),
+				 milvus.WithIndex(idx),
 	)
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	tools := []llms.Tool{
-		{
-			Type: "function",
-			Function: &llms.FunctionDefinition{
-				Name:        "searchMilvus",
-				Description: "Search the Milvus vector database for documents relevant to a topic.",
-				Parameters: map[string]any{
-					"type": "object",
-					"properties": map[string]any{
-						"query": map[string]any{
-							"type":        "string",
-							"description": "The topic or search query.",
-						},
-					},
-					"required": []string{"query"},
-				},
-			},
-		},
-		{
-			Type: "function",
-			Function: &llms.FunctionDefinition{
-				Name:        "crawlTopic",
-				Description: "Crawl the web for the latest articles or text about a topic.",
-				Parameters: map[string]any{
-					"type": "object",
-					"properties": map[string]any{
-						"topic": map[string]any{
-							"type":        "string",
-							"description": "The topic to crawl.",
-						},
-					},
-					"required": []string{"topic"},
-				},
-			},
-		},
-		{
-			Type: "function",
-			Function: &llms.FunctionDefinition{
-				Name:        "postToFacebook",
-				Description: "Post the generated Vietnamese Facebook post onto a Facebook page.",
-				Parameters: map[string]any{
-					"type": "object",
-					"properties": map[string]any{
-						"content": map[string]any{
-							"type":        "string",
-							"description": "The text content to post.",
-						},
-					},
-					"required": []string{"content"},
-				},
-			},
-		},
+	getAnswer := func() (string, []schema.Document, error) {
+		results, err := store.SimilaritySearch(
+			ctx,
+			topic,
+			7,
+			vectorstores.WithScoreThreshold(0.97),
+		)
+		if err != nil {
+			return "", nil, err
+		}
+
+		info := ""
+		for _, r := range results {
+			info += r.PageContent + "\n"
+		}
+
+		prompt := fmt.Sprintf(`
+		You are a Vietnamese social media writer.
+		Write a short, engaging Facebook post using the information below.
+		If the information is unrelated to the topic, reply "Không có thông tin liên quan."
+
+		Topic: %s
+		Information:
+		%s
+		`, topic, info)
+
+		answer, err := llms.GenerateFromSinglePrompt(
+			ctx,
+			llm,
+			prompt,
+			llms.WithModel("gemini-2.0-flash"),
+		)
+		return answer, results, err
 	}
 
-	task := fmt.Sprintf(`You are a Vietnamese social media writer.
-	Your goal: Write an engaging Facebook post about "%s".
-	You can use tools to gather and post information.
-	If there's not enough info in Milvus, call "crawlTopic".
-	After generating the post, call "postToFacebook".`, topic)
-
-	messageHistory := []llms.MessageContent{
-		llms.TextParts(llms.ChatMessageTypeSystem, "You are an autonomous assistant that can call tools."),
-		llms.TextParts(llms.ChatMessageTypeHuman, task),
-	}
-
-	resp, err := llm.GenerateContent(ctx, messageHistory, llms.WithTools(tools))
+	answer, _, err := getAnswer()
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	if len(resp.Choices) == 0 {
-		log.Fatal("No response from LLM.")
-	}
+	if strings.Contains(strings.ToLower(answer), "không có thông tin liên quan") {
+		fmt.Println("No related info in Milvus, crawling the web...")
 
-	choice := resp.Choices[0]
-	assistantResponse := llms.TextParts(llms.ChatMessageTypeAI, choice.Content)
-	for _, tc := range choice.ToolCalls {
-		assistantResponse.Parts = append(assistantResponse.Parts, tc)
-	}
-	messageHistory = append(messageHistory, assistantResponse)
+		crawledTexts := crawlTopic(topic)
+		if len(crawledTexts) == 0 {
+			log.Fatal("No content found online.")
+		}
 
-	// Handle tool calls
-	for _, tc := range choice.ToolCalls {
-		switch tc.FunctionCall.Name {
-		case "searchMilvus":
-			var args struct {
-				Query string `json:"query"`
+		var docs []schema.Document
+		for _, htmlText := range crawledTexts {
+			chunks := splitTextToChunks(htmlText)
+			for _, chunk := range chunks {
+				docs = append(docs, schema.Document{
+					PageContent: chunk,
+				})
 			}
-			_ = json.Unmarshal([]byte(tc.FunctionCall.Arguments), &args)
-			results, _ := store.SimilaritySearch(ctx, args.Query, 20, vectorstores.WithScoreThreshold(0.9))
-			fmt.Println("🔍 searchMilvus results:", len(results))
+		}
 
-			toolResponse := llms.MessageContent{
-				Role: llms.ChatMessageTypeTool,
-				Parts: []llms.ContentPart{
-					llms.ToolCallResponse{
-						Name:    tc.FunctionCall.Name,
-						Content: formatDocs(results),
-					},
-				},
-			}
-			messageHistory = append(messageHistory, toolResponse)
-
-		case "crawlTopic":
-			var args struct {
-				Topic string `json:"topic"`
-			}
-			_ = json.Unmarshal([]byte(tc.FunctionCall.Arguments), &args)
-			fmt.Println("🌐 Crawling topic:", args.Topic)
-			texts := crawlTopic(args.Topic)
-			fmt.Println("Crawled docs:", len(texts))
-			if len(texts) > 0 {
-				var docs []schema.Document
-				for _, t := range texts {
-					docs = append(docs, schema.Document{PageContent: t})
-				}
-				_, err := store.AddDocuments(ctx, docs)
-				if err != nil {
-					log.Println("Error adding docs:", err)
-				}
-			}
-			messageHistory = append(messageHistory, llms.TextParts(llms.ChatMessageTypeTool,
-				fmt.Sprintf("Crawled %d docs for %s", len(texts), args.Topic)))
-
-		case "postToFacebook":
-			var args struct {
-				Content string `json:"content"`
-			}
-			_ = json.Unmarshal([]byte(tc.FunctionCall.Arguments), &args)
-			fmt.Println("📣 Posting to Facebook:", args.Content[:min(120, len(args.Content))], "...")
-			postOntoFacebookPage(args.Content)
-
-			messageHistory = append(messageHistory, llms.TextParts(llms.ChatMessageTypeTool,
-				"Posted successfully!"))
-
-		default:
-			fmt.Println("⚠️ Unknown tool call:", tc.FunctionCall.Name)
+		fmt.Println("Adding new docs to Milvus...")
+		_, err := store.AddDocuments(ctx, docs)
+		if err != nil {
+			log.Fatal("AddDocuments error:", err)
+		}
+		answer, _, err = getAnswer()
+		if err != nil {
+			log.Fatal(err)
 		}
 	}
 
-	resp, err = llm.GenerateContent(ctx, messageHistory, llms.WithTools(tools))
-	if err != nil {
-		log.Fatal(err)
-	}
+	fmt.Println("Gemini Output:")
+	fmt.Println(answer)
 
-	fmt.Println("\n🤖 Final Gemini Output:")
-	b, _ := json.MarshalIndent(resp.Choices[0], "", "  ")
-	fmt.Println(string(b))
-}
 
-func formatDocs(docs []schema.Document) string {
-	var sb strings.Builder
-	for _, d := range docs {
-		sb.WriteString(d.PageContent)
-		sb.WriteString("\n---\n")
+	if askYesNo("Do you want to post this onto your Facebook Page?") {
+		postOntoFacebookPage(answer)
 	}
-	return sb.String()
 }
 
 func crawlTopic(topic string) []string {
-	time.Sleep(1 * time.Second)
-	return []string{fmt.Sprintf("Example article content about %s.", topic)}
+	apiKey := strings.TrimSpace(os.Getenv(apiKeyEnv))
+	cseID := strings.TrimSpace(os.Getenv(cseIDEnv))
+
+	params := url.Values{}
+	params.Add("key", apiKey)
+	params.Add("cx", cseID)
+	params.Add("q", url.QueryEscape(topic))
+	params.Add("num", "3")
+
+	searchURL := fmt.Sprintf("https://customsearch.googleapis.com/customsearch/v1?%s", params.Encode())
+
+	resp, err := http.Get(searchURL)
+	if err != nil {
+		log.Printf("Search request failed: %v", err)
+		return nil
+	}
+	defer resp.Body.Close()
+
+	body, _ := io.ReadAll(resp.Body)
+
+	var results SearchResponse
+	if err := json.Unmarshal(body, &results); err != nil {
+		log.Printf("JSON parse error: %v", err)
+		return nil
+	}
+
+	var texts []string
+	for _, item := range results.Items {
+		fmt.Println("Crawling:", item.Link)
+		text := extractText(item.Link)
+		if len(text) > 100 {
+			texts = append(texts, text)
+			time.Sleep(1 * time.Second)
+		}
+	}
+
+	return texts
+}
+
+func extractText(pageURL string) string {
+	resp, err := http.Get(pageURL)
+	if err != nil {
+		log.Printf("Fetch failed %s: %v", pageURL, err)
+		return ""
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != 200 {
+		return ""
+	}
+
+	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	if err != nil {
+		return ""
+	}
+
+	var b strings.Builder
+	doc.Find("p, h1, h2, h3, li").Each(func(_ int, s *goquery.Selection) {
+		txt := strings.TrimSpace(s.Text())
+		if txt != "" {
+			b.WriteString(txt + "\n")
+		}
+	})
+
+	return b.String()
+}
+
+func splitTextToChunks(text string) []string {
+	splitter := textsplitter.NewMarkdownTextSplitter(
+		textsplitter.WithChunkSize(500),
+		textsplitter.WithChunkOverlap(50),
+	)
+	chunks, err := splitter.SplitText(text)
+	if err != nil {
+		return []string{text}
+	}
+	return chunks
 }
 
 func postOntoFacebookPage(content string) {
-	fmt.Println("✅ (Simulated) Posted to Facebook:", content[:min(100, len(content))])
+	url := fmt.Sprintf(
+		"https://graph.facebook.com/v23.0/%s/feed",
+		os.Getenv("FACEBOOK_PAGE_ID"),
+	)
+
+	data := map[string]string{
+		"message":      content,
+		"access_token": os.Getenv("FACEBOOK_PAGE_ACCESS_TOKEN"),
+	}
+
+	jsonData, err := json.Marshal(data)
+	if err != nil {
+		panic(err)
+	}
+
+	resp, err := http.Post(url, "application/json", bytes.NewBuffer(jsonData))
+	if err != nil {
+		panic(err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode == http.StatusOK {
+		fmt.Println("Post successfully created!")
+	} else {
+		fmt.Println("Failed to post:", resp.Status)
+	}
 }
 
-func min(a, b int) int {
-	if a < b {
-		return a
+func askYesNo(prompt string) bool {
+	reader := bufio.NewReader(os.Stdin)
+	for {
+		fmt.Print(prompt, " (y/n): ")
+		input, err := reader.ReadString('\n')
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "read error:", err)
+			return false
+		}
+		input = strings.TrimSpace(strings.ToLower(input))
+
+		switch input {
+			case "y", "yes":
+				return true
+			case "n", "no":
+				return false
+		}
+
+		fmt.Println("Please type 'y' or 'n' and press Enter.")
 	}
-	return b
 }
