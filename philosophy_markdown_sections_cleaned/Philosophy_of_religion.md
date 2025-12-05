@@ -1,6 +1,0 @@
-# Philosophy of religion
-
-## Atheism
-
-
-

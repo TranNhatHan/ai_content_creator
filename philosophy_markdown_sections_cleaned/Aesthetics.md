@@ -1,6 +1,0 @@
-# Aesthetics
-
-## Analytic philosophy
-
-
-
